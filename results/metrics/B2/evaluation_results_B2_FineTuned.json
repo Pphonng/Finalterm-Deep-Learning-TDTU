@@ -1,0 +1,13 @@
+[
+    {
+        "model": "B2_FineTuned",
+        "timestamp": "2026-05-08 15:36:56",
+        "metrics": {
+            "vqa_accuracy": 57.89,
+            "bleu": 0.0,
+            "rougeL": 64.0,
+            "meteor": 32.86,
+            "bertscore_f1": 87.93
+        }
+    }
+]

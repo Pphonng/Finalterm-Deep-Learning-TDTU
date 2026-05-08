@@ -1,0 +1,7433 @@
+{
+  "config": "A1",
+  "predictions": [
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "nhiều"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "trắng",
+      "ref": "nâu"
+    },
+    {
+      "pred": "trắng",
+      "ref": "đen"
+    },
+    {
+      "pred": "đang đứng",
+      "ref": "đi"
+    },
+    {
+      "pred": "trên",
+      "ref": "rừng"
+    },
+    {
+      "pred": "trắng",
+      "ref": "đen"
+    },
+    {
+      "pred": "trên",
+      "ref": "Đất"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "Bảy"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "trên",
+      "ref": "Trên đất"
+    },
+    {
+      "pred": "đang đứng",
+      "ref": "Bú sữa"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Xám"
+    },
+    {
+      "pred": "lớn",
+      "ref": "Lớn"
+    },
+    {
+      "pred": "trên",
+      "ref": "Đồng cỏ"
+    },
+    {
+      "pred": "đang đứng",
+      "ref": "Đi dạo"
+    },
+    {
+      "pred": "có",
+      "ref": "Dài"
+    },
+    {
+      "pred": "lớn",
+      "ref": "Ngắn"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu"
+    },
+    {
+      "pred": "đang đứng",
+      "ref": "Ăn"
+    },
+    {
+      "pred": "trên",
+      "ref": "Trên đường"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Không"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Xám"
+    },
+    {
+      "pred": "đang đứng",
+      "ref": "Lông trên lưng"
+    },
+    {
+      "pred": "đang đứng",
+      "ref": "Nhảy"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "trên",
+      "ref": "Cỏ"
+    },
+    {
+      "pred": "trên",
+      "ref": "Cánh đồng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Xám"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đứng"
+    },
+    {
+      "pred": "trên",
+      "ref": "Đá và cây cối"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "trên",
+      "ref": "Vườn thú"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Xám"
+    },
+    {
+      "pred": "lớn",
+      "ref": "Lớn"
+    },
+    {
+      "pred": "có",
+      "ref": "Dạ"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đứng"
+    },
+    {
+      "pred": "đang đứng",
+      "ref": "Đá và cây"
+    },
+    {
+      "pred": "trên",
+      "ref": "Ngoài trời"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xám"
+    },
+    {
+      "pred": "có",
+      "ref": "có"
+    },
+    {
+      "pred": "trên",
+      "ref": "trong vườn"
+    },
+    {
+      "pred": "đứng",
+      "ref": "ngồi"
+    },
+    {
+      "pred": "có",
+      "ref": "có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xám"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đen"
+    },
+    {
+      "pred": "đứng",
+      "ref": "ngồi"
+    },
+    {
+      "pred": "lớn",
+      "ref": "to"
+    },
+    {
+      "pred": "trên",
+      "ref": "thảo nguyên"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đen"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đen"
+    },
+    {
+      "pred": "đứng",
+      "ref": "ôm mẹ"
+    },
+    {
+      "pred": "trên",
+      "ref": "rừng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "trên",
+      "ref": "trước mặt"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xám"
+    },
+    {
+      "pred": "có",
+      "ref": "đang"
+    },
+    {
+      "pred": "đang đứng",
+      "ref": "đứng yên"
+    },
+    {
+      "pred": "trên",
+      "ref": "trên người tuần lộc"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu trắng"
+    },
+    {
+      "pred": "lớn",
+      "ref": "Lớn"
+    },
+    {
+      "pred": "trên",
+      "ref": "Trên tuyết"
+    },
+    {
+      "pred": "đang đứng",
+      "ref": "Đứng"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Xanh"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "Bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Trắng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "To"
+    },
+    {
+      "pred": "đang đứng",
+      "ref": "Đi"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đi"
+    },
+    {
+      "pred": "trên",
+      "ref": "Trên thảo nguyên"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Trắng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Trắng"
+    },
+    {
+      "pred": "đang đứng",
+      "ref": "Đi dạo"
+    },
+    {
+      "pred": "lớn",
+      "ref": "To"
+    },
+    {
+      "pred": "trên",
+      "ref": "Rừng cây"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Vàng"
+    },
+    {
+      "pred": "đang",
+      "ref": "Bên trái"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "ba"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu"
+    },
+    {
+      "pred": "có",
+      "ref": "Mềm"
+    },
+    {
+      "pred": "trên",
+      "ref": "Đồng cỏ"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Ngồi"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "Nhiều"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Dài"
+    },
+    {
+      "pred": "đang đứng",
+      "ref": "Chạy"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "có",
+      "ref": "như bông"
+    },
+    {
+      "pred": "đứng",
+      "ref": "giấu mình"
+    },
+    {
+      "pred": "có",
+      "ref": "có"
+    },
+    {
+      "pred": "trên",
+      "ref": "trong chăn"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "ba"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "có",
+      "ref": "dài"
+    },
+    {
+      "pred": "trên",
+      "ref": "ngoài đồng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "nằm"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "Bảy"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Trắng xám"
+    },
+    {
+      "pred": "một",
+      "ref": "Bảy"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "nhiều"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "trên",
+      "ref": "hàng rào"
+    },
+    {
+      "pred": "lớn",
+      "ref": "dài"
+    },
+    {
+      "pred": "nâu",
+      "ref": "hồng"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "nâu",
+      "ref": "trắng"
+    },
+    {
+      "pred": "trên",
+      "ref": "trên bàn"
+    },
+    {
+      "pred": "đứng",
+      "ref": "nằm"
+    },
+    {
+      "pred": "nâu",
+      "ref": "hồng"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xám"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "hồng"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xám"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đứng gần"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "trên",
+      "ref": "rừng"
+    },
+    {
+      "pred": "trên",
+      "ref": "gốc cây"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "Bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Xám"
+    },
+    {
+      "pred": "có",
+      "ref": "Nhỏ"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Leo"
+    },
+    {
+      "pred": "trên",
+      "ref": "Trên hàng rào"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Hàng rào"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "bảy"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đứng"
+    },
+    {
+      "pred": "trên",
+      "ref": "cỏ"
+    },
+    {
+      "pred": "có",
+      "ref": "ngắn"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "lớn",
+      "ref": "dài"
+    },
+    {
+      "pred": "trên",
+      "ref": "trong草"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đứng"
+    },
+    {
+      "pred": "lớn",
+      "ref": "nhỏ"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "Bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu"
+    },
+    {
+      "pred": "trên",
+      "ref": "Sừng"
+    },
+    {
+      "pred": "trên",
+      "ref": "Đồng cỏ"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đứng yên"
+    },
+    {
+      "pred": "trên",
+      "ref": "Đứng thẳng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "bốn"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đứng"
+    },
+    {
+      "pred": "trên",
+      "ref": "ngoài đồng"
+    },
+    {
+      "pred": "lớn",
+      "ref": "dài"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "ba"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu trắng"
+    },
+    {
+      "pred": "có",
+      "ref": "ngắn"
+    },
+    {
+      "pred": "trên",
+      "ref": "cánh đồng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đứng"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Xám"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Nằm"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Vàng nhạt"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Mắt"
+    },
+    {
+      "pred": "trên",
+      "ref": "Trên cát"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Nằm"
+    },
+    {
+      "pred": "trên",
+      "ref": "Bãi biển"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "Bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Kem"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Ngồi"
+    },
+    {
+      "pred": "trên",
+      "ref": "Bờ biển"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "lớn",
+      "ref": "Ngồi nghiêng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "đứng",
+      "ref": "mõm"
+    },
+    {
+      "pred": "đứng",
+      "ref": "nằm"
+    },
+    {
+      "pred": "trên",
+      "ref": "trên tuyết"
+    },
+    {
+      "pred": "lớn",
+      "ref": "nằm nghiêng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Bốn"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Trắng xám"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đốm đen"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Nằm"
+    },
+    {
+      "pred": "trên",
+      "ref": "Trên bãi biển"
+    },
+    {
+      "pred": "lớn",
+      "ref": "Lớn"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "Một vài"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu"
+    },
+    {
+      "pred": "lớn",
+      "ref": "Lớn"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đi dạo"
+    },
+    {
+      "pred": "trên",
+      "ref": "Ngoài trời"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "Bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Đen"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đứng"
+    },
+    {
+      "pred": "trên",
+      "ref": "Trên đá"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Tảng đá"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "bốn"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "có",
+      "ref": "có"
+    },
+    {
+      "pred": "không",
+      "ref": "đang đi"
+    },
+    {
+      "pred": "có",
+      "ref": "đang ở trong nhà"
+    },
+    {
+      "pred": "có",
+      "ref": "có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "có",
+      "ref": "có"
+    },
+    {
+      "pred": "trên",
+      "ref": "đá"
+    },
+    {
+      "pred": "đứng",
+      "ref": "nằm"
+    },
+    {
+      "pred": "trên",
+      "ref": "núi đá"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Bốn"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu đậm"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Nằm"
+    },
+    {
+      "pred": "trên",
+      "ref": "Trên đá"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "bốn"
+    },
+    {
+      "pred": "nâu",
+      "ref": "trắng"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xám"
+    },
+    {
+      "pred": "đứng",
+      "ref": "ngồi"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đen"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Xám"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Tím"
+    },
+    {
+      "pred": "đang đứng",
+      "ref": "Ôm"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Đen"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Xám"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đứng"
+    },
+    {
+      "pred": "trên",
+      "ref": "Rừng"
+    },
+    {
+      "pred": "đang",
+      "ref": "Gốc cây"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "tám"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "đứng",
+      "ref": "ngồi"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "một",
+      "ref": "bốn"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xám"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đen"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đang ôm cây"
+    },
+    {
+      "pred": "trên",
+      "ref": "trong rừng"
+    },
+    {
+      "pred": "lớn",
+      "ref": "rất to"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xám"
+    },
+    {
+      "pred": "có",
+      "ref": "dài"
+    },
+    {
+      "pred": "đứng",
+      "ref": "nhìn"
+    },
+    {
+      "pred": "có",
+      "ref": "có"
+    },
+    {
+      "pred": "có",
+      "ref": "dài"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đen"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Ngồi"
+    },
+    {
+      "pred": "đang",
+      "ref": "Kim loại"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "không",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Đỏ"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Ngồi cạnh táo"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "Bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu"
+    },
+    {
+      "pred": "lớn",
+      "ref": "Nhỏ"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đi"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "trên",
+      "ref": "Trắng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "ba"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đứng"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "trên",
+      "ref": "trong vườn"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xám trắng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "miệng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đứng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "chắp tay"
+    },
+    {
+      "pred": "trên",
+      "ref": "thân cây"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Bốn"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu đỏ"
+    },
+    {
+      "pred": "trắng",
+      "ref": "Bụng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Leo cây"
+    },
+    {
+      "pred": "trên",
+      "ref": "Trong rừng"
+    },
+    {
+      "pred": "lớn",
+      "ref": "To"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "ba"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xám"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đứng"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xám trắng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "nhiều"
+    },
+    {
+      "pred": "trên",
+      "ref": "trên gỗ"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "đang đứng",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "nhiều"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xám"
+    },
+    {
+      "pred": "nâu",
+      "ref": "trắng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đứng"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "trên",
+      "ref": "ngoài trời"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xanh"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "ba"
+    },
+    {
+      "pred": "nâu",
+      "ref": "cam"
+    },
+    {
+      "pred": "đứng",
+      "ref": "xám"
+    },
+    {
+      "pred": "đứng",
+      "ref": "leo cây"
+    },
+    {
+      "pred": "đứng",
+      "ref": "leo cây"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu đỏ"
+    },
+    {
+      "pred": "lớn",
+      "ref": "lớn"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đang nhìn"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu đỏ"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Cầm que"
+    },
+    {
+      "pred": "trên",
+      "ref": "Trên sàn"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu đỏ"
+    },
+    {
+      "pred": "có",
+      "ref": "dài"
+    },
+    {
+      "pred": "đang đứng",
+      "ref": "treo"
+    },
+    {
+      "pred": "trên",
+      "ref": "rừng"
+    },
+    {
+      "pred": "trên",
+      "ref": "dây"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu đỏ"
+    },
+    {
+      "pred": "có",
+      "ref": "Lớn"
+    },
+    {
+      "pred": "đang đứng",
+      "ref": "Leo cây"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "trên",
+      "ref": "Trong rừng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu đỏ"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xám"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "đứng",
+      "ref": "nhìn"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "lớn",
+      "ref": "dài"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "không",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu đen"
+    },
+    {
+      "pred": "trên",
+      "ref": "Trên đất"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "lớn",
+      "ref": "Không"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "không",
+      "ref": "Không"
+    },
+    {
+      "pred": "không",
+      "ref": "Không"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xanh"
+    },
+    {
+      "pred": "nâu",
+      "ref": "vàng"
+    },
+    {
+      "pred": "trên",
+      "ref": "trên nền đen"
+    },
+    {
+      "pred": "đứng",
+      "ref": "cuộn quanh"
+    },
+    {
+      "pred": "lớn",
+      "ref": "nhỏ và sần sùi"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Vàng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đe dọa"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "một",
+      "ref": "ba"
+    },
+    {
+      "pred": "trên",
+      "ref": "sa mạc"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "ba"
+    },
+    {
+      "pred": "đứng",
+      "ref": "cuộn tròn"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xám"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đen"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "không",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Sáu"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu đỏ"
+    },
+    {
+      "pred": "trên",
+      "ref": "Trên nền trắng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đứng yên"
+    },
+    {
+      "pred": "có",
+      "ref": "Nhỏ"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "không",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Sáu"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Đỏ"
+    },
+    {
+      "pred": "đang",
+      "ref": "Gỗ"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đứng"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Trong suốt"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu đen"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đỏ"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đứng yên"
+    },
+    {
+      "pred": "có",
+      "ref": "có"
+    },
+    {
+      "pred": "có",
+      "ref": "có"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "sáu"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đen trắng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "cỏ",
+      "ref": "trên không trung"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "sáu"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu trong"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đen"
+    },
+    {
+      "pred": "cỏ",
+      "ref": "bề mặt trắng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đứng yên"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "sáu"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "không",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "sáu"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "lớn",
+      "ref": "nhỏ"
+    },
+    {
+      "pred": "đang đứng",
+      "ref": "bay"
+    },
+    {
+      "pred": "đứng",
+      "ref": "lớn"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "trên",
+      "ref": "đen"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "Sáu"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Vàng nâu"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "đang đứng",
+      "ref": "Đi lại"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Trong suốt"
+    },
+    {
+      "pred": "trên",
+      "ref": "Trên bề mặt trắng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "Sáu"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Vàng đen"
+    },
+    {
+      "pred": "đang",
+      "ref": "Râu"
+    },
+    {
+      "pred": "trên",
+      "ref": "Bề mặt trắng"
+    },
+    {
+      "pred": "đang đứng",
+      "ref": "Đứng yên"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đen"
+    },
+    {
+      "pred": "trên",
+      "ref": "trên cây"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đang kêu"
+    },
+    {
+      "pred": "không",
+      "ref": "không"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "không",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Đen"
+    },
+    {
+      "pred": "có",
+      "ref": "Dài"
+    },
+    {
+      "pred": "trên",
+      "ref": "Đá"
+    },
+    {
+      "pred": "trên",
+      "ref": "Cỏ cây"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đứng yên"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "ba"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xám"
+    },
+    {
+      "pred": "trên",
+      "ref": "trên cột"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đứng"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xanh"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Đen"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Đen"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Hót"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Xanh"
+    },
+    {
+      "pred": "trên",
+      "ref": "Bên trái"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Đen"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "không",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Đen"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Đen"
+    },
+    {
+      "pred": "trên",
+      "ref": "Trên cành cây"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đứng yên"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "nhiều"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xám trắng"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đứng yên"
+    },
+    {
+      "pred": "trên",
+      "ref": "ngoài tự nhiên"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "không",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Xám trắng"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Đen"
+    },
+    {
+      "pred": "trên",
+      "ref": "Trong rừng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đứng yên"
+    },
+    {
+      "pred": "trên",
+      "ref": "Bên phải"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "nhiều"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu vàng"
+    },
+    {
+      "pred": "có",
+      "ref": "dài"
+    },
+    {
+      "pred": "đứng",
+      "ref": "ngồi"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đen"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "không",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "ba"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xám"
+    },
+    {
+      "pred": "có",
+      "ref": "đen"
+    },
+    {
+      "pred": "đứng",
+      "ref": "ăn"
+    },
+    {
+      "pred": "trên",
+      "ref": "trên gốc cây"
+    },
+    {
+      "pred": "đang đứng",
+      "ref": "dài"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "ba"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xám"
+    },
+    {
+      "pred": "nâu",
+      "ref": "vàng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "ăn lá"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "đang đứng",
+      "ref": "dài"
+    },
+    {
+      "pred": "một",
+      "ref": "mười"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "tám"
+    },
+    {
+      "pred": "nâu",
+      "ref": "trắng"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "đang",
+      "ref": "thớt"
+    },
+    {
+      "pred": "đang",
+      "ref": "thẳng hàng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "mười"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu đỏ"
+    },
+    {
+      "pred": "không",
+      "ref": "vừa"
+    },
+    {
+      "pred": "trên",
+      "ref": "dưới nước"
+    },
+    {
+      "pred": "đứng",
+      "ref": "bơi"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xanh đậm"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Vàng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "không",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "không",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "mười"
+    },
+    {
+      "pred": "một",
+      "ref": "tám"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "nâu",
+      "ref": "trắng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đang di chuyển"
+    },
+    {
+      "pred": "trên",
+      "ref": "trên bờ"
+    },
+    {
+      "pred": "trên",
+      "ref": "nước"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "mười"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "đứng",
+      "ref": "nằm"
+    },
+    {
+      "pred": "trên",
+      "ref": "bờ biển"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "nhiều"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu đậm"
+    },
+    {
+      "pred": "trên",
+      "ref": "rừng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đứng"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Đen"
+    },
+    {
+      "pred": "lớn",
+      "ref": "Dài"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "có",
+      "ref": "nhỏ"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đứng yên"
+    },
+    {
+      "pred": "trên",
+      "ref": "trong chuồng"
+    },
+    {
+      "pred": "lớn",
+      "ref": "gầy"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đen"
+    },
+    {
+      "pred": "đứng",
+      "ref": "chạy"
+    },
+    {
+      "pred": "trên",
+      "ref": "ngoài trời"
+    },
+    {
+      "pred": "trên",
+      "ref": "bên phải"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "nhiều"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Trắng vàng"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Vàng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Chạy"
+    },
+    {
+      "pred": "trên",
+      "ref": "Tuyết"
+    },
+    {
+      "pred": "trên",
+      "ref": "Cánh đồng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "lớn",
+      "ref": "lớn"
+    },
+    {
+      "pred": "trên",
+      "ref": "trong nhà"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đang bay"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xanh"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "Sáu"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Đen"
+    },
+    {
+      "pred": "lớn",
+      "ref": "Nhỏ"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đứng yên"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "trên",
+      "ref": "Trắng"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "Sáu"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu vàng"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Đỏ"
+    },
+    {
+      "pred": "trên",
+      "ref": "Tay người"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "lớn",
+      "ref": "Lớn"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "Sáu"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Bụng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Hút máu"
+    },
+    {
+      "pred": "đang",
+      "ref": "Da người"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Đỏ"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "một",
+      "ref": "Sáu"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu"
+    },
+    {
+      "pred": "đang đứng",
+      "ref": "Mỏ"
+    },
+    {
+      "pred": "đang đứng",
+      "ref": "Đứng yên"
+    },
+    {
+      "pred": "trên",
+      "ref": "Bề mặt phẳng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "ngắn"
+    },
+    {
+      "pred": "đứng",
+      "ref": "nhìn ra"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "lớn"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "trên",
+      "ref": "Trên ghế"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Ngồi"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Xám"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "đứng",
+      "ref": "nằm"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xanh"
+    },
+    {
+      "pred": "nâu",
+      "ref": "điểm đen"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "đang",
+      "ref": "đồ gãi mèo"
+    },
+    {
+      "pred": "đứng",
+      "ref": "nằm"
+    },
+    {
+      "pred": "cỏ",
+      "ref": "thảm"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "có",
+      "ref": "dày"
+    },
+    {
+      "pred": "đứng",
+      "ref": "ngồi"
+    },
+    {
+      "pred": "có",
+      "ref": "có"
+    },
+    {
+      "pred": "có",
+      "ref": "có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "một vài"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đen"
+    },
+    {
+      "pred": "trên",
+      "ref": "vạch trắng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đi trong cỏ"
+    },
+    {
+      "pred": "lớn",
+      "ref": "cao và xanh"
+    },
+    {
+      "pred": "trên",
+      "ref": "trong đồng cỏ"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Đen trắng"
+    },
+    {
+      "pred": "có",
+      "ref": "Nhỏ"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Ngồi"
+    },
+    {
+      "pred": "trên",
+      "ref": "Trong hang"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "một vài"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "nâu",
+      "ref": "hồng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đang đi"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xám"
+    },
+    {
+      "pred": "đứng",
+      "ref": "chân"
+    },
+    {
+      "pred": "đứng",
+      "ref": "cầm một khúc gỗ"
+    },
+    {
+      "pred": "trên",
+      "ref": "trong nhà"
+    },
+    {
+      "pred": "lớn",
+      "ref": "đang ngồi"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "không",
+      "ref": "Không"
+    },
+    {
+      "pred": "không",
+      "ref": "Không"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "hai mươi"
+    },
+    {
+      "pred": "một",
+      "ref": "mười"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu trắng"
+    },
+    {
+      "pred": "trên",
+      "ref": "Bàn đỏ trắng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "không",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "không",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "ba"
+    },
+    {
+      "pred": "một",
+      "ref": "ba"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu trắng"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "trên",
+      "ref": "đá lạnh"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "trắng"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đen"
+    },
+    {
+      "pred": "đứng",
+      "ref": "nhìn"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đuôi"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đi lại"
+    },
+    {
+      "pred": "đang",
+      "ref": "đá"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "cam"
+    },
+    {
+      "pred": "lớn",
+      "ref": "lớn"
+    },
+    {
+      "pred": "trên",
+      "ref": "trong rừng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đi dạo"
+    },
+    {
+      "pred": "có",
+      "ref": "có"
+    },
+    {
+      "pred": "nâu",
+      "ref": "lá cây"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "nâu",
+      "ref": "trắng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "không",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "trắng đen"
+    },
+    {
+      "pred": "đang đứng",
+      "ref": "mũi"
+    },
+    {
+      "pred": "đứng",
+      "ref": "nhìn thẳng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nhạt"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "trên",
+      "ref": "đồng cỏ"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đứng"
+    },
+    {
+      "pred": "lớn",
+      "ref": "to"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "kem"
+    },
+    {
+      "pred": "trên",
+      "ref": "sừng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "nhìn gần"
+    },
+    {
+      "pred": "trên",
+      "ref": "cánh đồng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "trắng nâu"
+    },
+    {
+      "pred": "đang đứng",
+      "ref": "đầu"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đứng trong cỏ"
+    },
+    {
+      "pred": "lớn",
+      "ref": "dài"
+    },
+    {
+      "pred": "trên",
+      "ref": "trong đồng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Bốn"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Trắng và đen"
+    },
+    {
+      "pred": "lớn",
+      "ref": "Nhỏ"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đi"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "trên",
+      "ref": "Cát"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Sáu"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu đỏ"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "trên",
+      "ref": "Trên nền trắng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đi"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Sáu"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu"
+    },
+    {
+      "pred": "có",
+      "ref": "Hai mắt"
+    },
+    {
+      "pred": "có",
+      "ref": "Đúng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đi"
+    },
+    {
+      "pred": "có",
+      "ref": "Không lớn"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Râu"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "Sáu"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "đang",
+      "ref": "Gỗ"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đi"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "Sáu"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu"
+    },
+    {
+      "pred": "lớn",
+      "ref": "Lớn"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Nằm"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "trên",
+      "ref": "Trắng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "sáu"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "đang",
+      "ref": "gỗ"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đi"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Bốn"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Màu kem"
+    },
+    {
+      "pred": "có",
+      "ref": "Dài"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đứng yên"
+    },
+    {
+      "pred": "trên",
+      "ref": "Đồng cỏ"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "năm"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "ba"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "nâu",
+      "ref": "hồng"
+    },
+    {
+      "pred": "trên",
+      "ref": "ngoài đồng"
+    },
+    {
+      "pred": "một",
+      "ref": "ba"
+    },
+    {
+      "pred": "nâu",
+      "ref": "trắng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đứng yên"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đen"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "dài"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "Không"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "ba"
+    },
+    {
+      "pred": "nâu",
+      "ref": "màu kem"
+    },
+    {
+      "pred": "có",
+      "ref": "mềm"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đứng yên"
+    },
+    {
+      "pred": "trên",
+      "ref": "trong chuồng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Bốn"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu"
+    },
+    {
+      "pred": "lớn",
+      "ref": "Lớn"
+    },
+    {
+      "pred": "trên",
+      "ref": "Trong nhà"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Hồng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đứng yên"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "Bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "Ba"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu trắng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Bốn chân"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đứng yên"
+    },
+    {
+      "pred": "trên",
+      "ref": "Trong đồng"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Vàng"
+    },
+    {
+      "pred": "lớn",
+      "ref": "To"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Trắng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Mõm"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đứng"
+    },
+    {
+      "pred": "trên",
+      "ref": "Sao"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "trên",
+      "ref": "Bên trái"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "mười"
+    },
+    {
+      "pred": "một",
+      "ref": "tám"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đen trắng"
+    },
+    {
+      "pred": "đang đứng",
+      "ref": "tai"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đứng"
+    },
+    {
+      "pred": "trên",
+      "ref": "đồng cỏ"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "trắng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đầu"
+    },
+    {
+      "pred": "đứng",
+      "ref": "nằm"
+    },
+    {
+      "pred": "trên",
+      "ref": "đồng cỏ"
+    },
+    {
+      "pred": "đứng",
+      "ref": "cây cối"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "Bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "Bốn"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Đen"
+    },
+    {
+      "pred": "trên",
+      "ref": "Đồng cỏ"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đứng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu cam"
+    },
+    {
+      "pred": "lớn",
+      "ref": "Vừa phải"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đang chạy"
+    },
+    {
+      "pred": "trên",
+      "ref": "Trên bãi cỏ"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Cam"
+    },
+    {
+      "pred": "có",
+      "ref": "Dài"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đi"
+    },
+    {
+      "pred": "trên",
+      "ref": "Cánh đồng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đang được vuốt"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "bốn"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu cam"
+    },
+    {
+      "pred": "có",
+      "ref": "dày"
+    },
+    {
+      "pred": "đứng",
+      "ref": "ngồi"
+    },
+    {
+      "pred": "trên",
+      "ref": "trên tuyết"
+    },
+    {
+      "pred": "không",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Bốn"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Cam"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Mỏ"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đứng"
+    },
+    {
+      "pred": "trên",
+      "ref": "Tuyết"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "bốn"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xanh và vàng"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đang di chuyển"
+    },
+    {
+      "pred": "trên",
+      "ref": "trên bàn"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "lớn",
+      "ref": "to"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "trên",
+      "ref": "càng và chân"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đi"
+    },
+    {
+      "pred": "có",
+      "ref": "không"
+    },
+    {
+      "pred": "không",
+      "ref": "nhỏ"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "bốn"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đỏ"
+    },
+    {
+      "pred": "không",
+      "ref": "lớn"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "không",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "trắng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "tám"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "trên",
+      "ref": "gỗ"
+    },
+    {
+      "pred": "trên",
+      "ref": "bãi biển"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "kem"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "tám"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đỏ"
+    },
+    {
+      "pred": "có",
+      "ref": "không thấy"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đứng yên"
+    },
+    {
+      "pred": "trên",
+      "ref": "trên nền trắng"
+    },
+    {
+      "pred": "lớn",
+      "ref": "to"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu"
+    },
+    {
+      "pred": "hai",
+      "ref": "Nhỏ"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Ngồi"
+    },
+    {
+      "pred": "lớn",
+      "ref": "Trên"
+    },
+    {
+      "pred": "hai",
+      "ref": "Lọ"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đỏ"
+    },
+    {
+      "pred": "nâu",
+      "ref": "hồng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đang leo"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "nâu",
+      "ref": "trắng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "bốn"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xám"
+    },
+    {
+      "pred": "nâu",
+      "ref": "hồng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đứng yên"
+    },
+    {
+      "pred": "có",
+      "ref": "có"
+    },
+    {
+      "pred": "trên",
+      "ref": "trắng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xám"
+    },
+    {
+      "pred": "lớn",
+      "ref": "dài"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đứng"
+    },
+    {
+      "pred": "có",
+      "ref": "có"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đen"
+    },
+    {
+      "pred": "có",
+      "ref": "đúng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "bốn"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đen"
+    },
+    {
+      "pred": "đứng",
+      "ref": "tai"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đứng yên"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "trên",
+      "ref": "trắng"
+    },
+    {
+      "pred": "nâu",
+      "ref": "hồng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "nhiều"
+    },
+    {
+      "pred": "nâu",
+      "ref": "vàng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "nằm"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "trên",
+      "ref": "trong sở thú"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Bốn"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Vàng"
+    },
+    {
+      "pred": "có",
+      "ref": "Đen"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Nằm"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Xanh"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "nhiều"
+    },
+    {
+      "pred": "nâu",
+      "ref": "vàng"
+    },
+    {
+      "pred": "có",
+      "ref": "đen"
+    },
+    {
+      "pred": "có",
+      "ref": "đang đi"
+    },
+    {
+      "pred": "có",
+      "ref": "lớn"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xanh"
+    },
+    {
+      "pred": "có",
+      "ref": "đen"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "đứng",
+      "ref": "cơ thể"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đi"
+    },
+    {
+      "pred": "trên",
+      "ref": "savanna"
+    },
+    {
+      "pred": "lớn",
+      "ref": "dài"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Vàng"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Đen trắng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đi"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Xanh"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Bốn"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Trắng"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Đỏ"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đang ngước đầu"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "trên",
+      "ref": "Không gian mờ"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "bảy"
+    },
+    {
+      "pred": "một",
+      "ref": "ba"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "có",
+      "ref": "dài"
+    },
+    {
+      "pred": "đứng",
+      "ref": "ăn"
+    },
+    {
+      "pred": "trên",
+      "ref": "ngoài đường"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "nâu",
+      "ref": "trắng"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "mười"
+    },
+    {
+      "pred": "một",
+      "ref": "bốn"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đứng"
+    },
+    {
+      "pred": "lớn",
+      "ref": "trên"
+    },
+    {
+      "pred": "đang",
+      "ref": "cong"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "nâu",
+      "ref": "vàng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đi gần bẫy"
+    },
+    {
+      "pred": "trên",
+      "ref": "sàn nhà"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xám"
+    },
+    {
+      "pred": "có",
+      "ref": "dài"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đi"
+    },
+    {
+      "pred": "có",
+      "ref": "dài"
+    },
+    {
+      "pred": "trên",
+      "ref": "trắng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "trắng"
+    },
+    {
+      "pred": "có",
+      "ref": "nhỏ"
+    },
+    {
+      "pred": "đứng",
+      "ref": "ăn"
+    },
+    {
+      "pred": "một",
+      "ref": "nhiều"
+    },
+    {
+      "pred": "trên",
+      "ref": "trước mặt"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Hồng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Mũi"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Ngồi"
+    },
+    {
+      "pred": "trên",
+      "ref": "Thảm"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Trắng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "ba"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xanh"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "dài"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Nhiều"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Trắng"
+    },
+    {
+      "pred": "lớn",
+      "ref": "Nhỏ"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Cầm"
+    },
+    {
+      "pred": "trên",
+      "ref": "Trong nhà"
+    },
+    {
+      "pred": "đang",
+      "ref": "Trẻ em"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Nhiều"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu trắng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Ăn"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "trên",
+      "ref": "Trong cỏ"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Hồng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Đỏ"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Đỏ trắng đen"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đục cây"
+    },
+    {
+      "pred": "trên",
+      "ref": "Trên cây"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "ba"
+    },
+    {
+      "pred": "một",
+      "ref": "nhiều"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Đỏ trắng đen"
+    },
+    {
+      "pred": "lớn",
+      "ref": "dài"
+    },
+    {
+      "pred": "đang đứng",
+      "ref": "đục cây"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đen"
+    },
+    {
+      "pred": "trên",
+      "ref": "ngoài rừng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đen"
+    },
+    {
+      "pred": "lớn",
+      "ref": "dài"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đậu"
+    },
+    {
+      "pred": "trên",
+      "ref": "trên cây"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đỏ trắng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Đỏ"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đậu"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu"
+    },
+    {
+      "pred": "có",
+      "ref": "Dài"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Xanh"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đen trắng"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xám"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đậu"
+    },
+    {
+      "pred": "trên",
+      "ref": "cây"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đỏ đen trắng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "nhiều"
+    },
+    {
+      "pred": "nâu",
+      "ref": "trong suốt"
+    },
+    {
+      "pred": "nâu",
+      "ref": "vàng"
+    },
+    {
+      "pred": "trên",
+      "ref": "trên cây"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đậu"
+    },
+    {
+      "pred": "có",
+      "ref": "lớn"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "sáu"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xanh"
+    },
+    {
+      "pred": "trên",
+      "ref": "hoa"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đậu"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xanh"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Xanh"
+    },
+    {
+      "pred": "lớn",
+      "ref": "Lớn"
+    },
+    {
+      "pred": "trên",
+      "ref": "Trên cành cây"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đậu"
+    },
+    {
+      "pred": "trên",
+      "ref": "Lá cây"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "trong suốt"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu vàng"
+    },
+    {
+      "pred": "trên",
+      "ref": "trên không"
+    },
+    {
+      "pred": "đứng",
+      "ref": "bay"
+    },
+    {
+      "pred": "lớn",
+      "ref": "lớn"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "sáu"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu đỏ"
+    },
+    {
+      "pred": "lớn",
+      "ref": "lớn"
+    },
+    {
+      "pred": "trên",
+      "ref": "trên lá"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đậu"
+    },
+    {
+      "pred": "nâu",
+      "ref": "trong suốt"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "không",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "ba"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xám"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "trên",
+      "ref": "dưới đáy biển"
+    },
+    {
+      "pred": "đứng",
+      "ref": "bơi"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "không",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Xám"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Chạm vào"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "không",
+      "ref": "Lớn"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xám"
+    },
+    {
+      "pred": "có",
+      "ref": "lớn"
+    },
+    {
+      "pred": "trên",
+      "ref": "dưới đáy biển"
+    },
+    {
+      "pred": "đứng",
+      "ref": "bơi"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "ba"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xám"
+    },
+    {
+      "pred": "có",
+      "ref": "lớn"
+    },
+    {
+      "pred": "trên",
+      "ref": "dưới nước"
+    },
+    {
+      "pred": "đứng",
+      "ref": "bơi"
+    },
+    {
+      "pred": "có",
+      "ref": "có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "ba"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đen"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "đứng",
+      "ref": "bơi"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xám"
+    },
+    {
+      "pred": "trên",
+      "ref": "dưới nước"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "ba"
+    },
+    {
+      "pred": "một",
+      "ref": "sáu"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đỏ"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đen"
+    },
+    {
+      "pred": "có",
+      "ref": "không"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đi"
+    },
+    {
+      "pred": "nâu",
+      "ref": "trắng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "mười"
+    },
+    {
+      "pred": "một",
+      "ref": "sáu"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đỏ"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đẻ trứng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "trên",
+      "ref": "lá cây"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "Một"
+    },
+    {
+      "pred": "một",
+      "ref": "Bốn"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Đỏ"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đứng"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Bốn"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Đỏ"
+    },
+    {
+      "pred": "trên",
+      "ref": "Cọng cỏ"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "bốn"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đỏ"
+    },
+    {
+      "pred": "có",
+      "ref": "đen"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đang đậu"
+    },
+    {
+      "pred": "trên",
+      "ref": "trên tường"
+    },
+    {
+      "pred": "nâu",
+      "ref": "trắng"
+    },
+    {
+      "pred": "đang",
+      "ref": "đứng yên"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hơn mười"
+    },
+    {
+      "pred": "một",
+      "ref": "nhiều"
+    },
+    {
+      "pred": "nâu",
+      "ref": "cam"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đen"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đọng lại"
+    },
+    {
+      "pred": "trên",
+      "ref": "trên gỗ"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "tám"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đỏ"
+    },
+    {
+      "pred": "trên",
+      "ref": "dưới nước"
+    },
+    {
+      "pred": "đang đứng",
+      "ref": "xa"
+    },
+    {
+      "pred": "nâu",
+      "ref": "vàng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "bơi"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xanh"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "tám"
+    },
+    {
+      "pred": "một",
+      "ref": "nhiều"
+    },
+    {
+      "pred": "nâu",
+      "ref": "hồng"
+    },
+    {
+      "pred": "đang",
+      "ref": "xoắn ốc"
+    },
+    {
+      "pred": "trên",
+      "ref": "trên cạn"
+    },
+    {
+      "pred": "nâu",
+      "ref": "trắng"
+    },
+    {
+      "pred": "có",
+      "ref": "nhỏ"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "không",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "tám"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "không",
+      "ref": "Đang"
+    },
+    {
+      "pred": "không",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "Tám"
+    },
+    {
+      "pred": "một",
+      "ref": "Ba"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Nâu đỏ"
+    },
+    {
+      "pred": "lớn",
+      "ref": "Dài"
+    },
+    {
+      "pred": "đang đứng",
+      "ref": "Được phơi"
+    },
+    {
+      "pred": "trên",
+      "ref": "Dây phơi"
+    },
+    {
+      "pred": "trên",
+      "ref": "Biển và trời xanh"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "tám"
+    },
+    {
+      "pred": "một",
+      "ref": "mười lăm"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đỏ"
+    },
+    {
+      "pred": "có",
+      "ref": "một"
+    },
+    {
+      "pred": "đứng",
+      "ref": "nằm"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đo"
+    },
+    {
+      "pred": "có",
+      "ref": "lớn"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "ba"
+    },
+    {
+      "pred": "một",
+      "ref": "ba"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Vàng và Hồng"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Cam"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Vệ sinh lông"
+    },
+    {
+      "pred": "trên",
+      "ref": "Gần sông"
+    },
+    {
+      "pred": "không",
+      "ref": "Không"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Trắng"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "ba"
+    },
+    {
+      "pred": "nâu",
+      "ref": "vàng"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đỏ"
+    },
+    {
+      "pred": "đứng",
+      "ref": "đứng"
+    },
+    {
+      "pred": "trên",
+      "ref": "bờ biển"
+    },
+    {
+      "pred": "trên",
+      "ref": "mỏ"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Vàng"
+    },
+    {
+      "pred": "nâu",
+      "ref": "Trắng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "Đứng"
+    },
+    {
+      "pred": "có",
+      "ref": "Dài"
+    },
+    {
+      "pred": "trên",
+      "ref": "Gần nước"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "không",
+      "ref": "Không"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "một"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "đứng",
+      "ref": "bơi"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "nâu",
+      "ref": "xanh"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "một",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "nâu"
+    },
+    {
+      "pred": "nâu",
+      "ref": "vàng"
+    },
+    {
+      "pred": "trên",
+      "ref": "trên đá"
+    },
+    {
+      "pred": "đang đứng",
+      "ref": "sải cánh"
+    },
+    {
+      "pred": "trên",
+      "ref": "nước"
+    }
+  ]
+}

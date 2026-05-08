@@ -1,0 +1,13 @@
+[
+    {
+        "model": "B1_ZeroShot",
+        "timestamp": "2026-05-08 15:21:42",
+        "metrics": {
+            "vqa_accuracy": 0.27,
+            "bleu": 1.36,
+            "rougeL": 0.84,
+            "meteor": 0.27,
+            "bertscore_f1": 76.61
+        }
+    }
+]
