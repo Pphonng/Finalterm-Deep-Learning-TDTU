@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MindSpace — AI Therapy</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --primary-900: #9FE1CB;
+      --primary-800: #EFB0C9;
+      --primary-600: #F4C2D7;
+      --primary-400: #B9D6F3;
+      --primary-100: #A1C9F1;
+      --primary-50:  #F1E8D9;
+
+      --gray-900: #2d2a2a;
+      --gray-800: #444141;
+      --gray-600: #5f5a5a;
+      --gray-400: #888080;
+      --gray-200: #b4a9a9;
+      --gray-100: #d3c7c7;
+      --gray-50:  #f9f4f4;
+      --white:    #ffffff;
+
+      --sidebar-w:        230px;
+      --sidebar-bg:       #2d2c2d;
+      --sidebar-accent:   var(--primary-800);
+      --sidebar-icon-bg:  var(--primary-900);
+      --btn-bg:           var(--primary-900);
+      --btn-hover:        #7ecfb5;
+      --chip-bg:          var(--primary-50);
+      --chip-text:        #7a5c4a;
+      --etag-bg:          #fce8f0;
+      --etag-text:        #c06080;
+      --bar-default:      var(--primary-600);
+      --bar-active:       var(--primary-900);
+      --focus-border:     var(--primary-100);
+      --dot-color:        var(--primary-900);
+    }
+
+    html, body { height: 100%; overflow: hidden; }
+    body { font-family: 'DM Sans', sans-serif; background: var(--gray-50); color: var(--gray-900); }
+
+    .app { display: grid; grid-template-columns: var(--sidebar-w) 1fr; width: 100vw; height: 100vh; }
+
+    /* SIDEBAR */
+    .sidebar { background: var(--sidebar-bg); display: flex; flex-direction: column; position: relative; overflow: hidden; }
+    .sidebar::before { content:''; position:absolute; bottom:-60px; right:-60px; width:200px; height:200px; border-radius:50%; background:rgba(255,255,255,0.03); pointer-events:none; }
+    .sidebar::after  { content:''; position:absolute; bottom:40px;  right:-90px; width:240px; height:240px; border-radius:50%; background:rgba(255,255,255,0.025); pointer-events:none; }
+
+    .sidebar-header { padding: 28px 22px 20px; border-bottom: 1px solid rgba(255,255,255,0.08); }
+    .brand { display:flex; align-items:center; gap:10px; margin-bottom:4px; }
+    .brand-icon { width:34px; height:34px; background:var(--sidebar-icon-bg); border-radius:9px; display:flex; align-items:center; justify-content:center; flex-shrink:0; }
+    .brand-icon svg { width:18px; height:18px; fill:white; }
+    .brand-name { font-family:'DM Serif Display',serif; font-size:18px; color:white; letter-spacing:0.01em; }
+    .brand-tagline { font-size:11px; color:rgba(255,255,255,0.4); letter-spacing:0.03em; padding-left:44px; }
+
+    .session-badge { margin:14px 0 0; padding:8px 12px; background:rgba(255,255,255,0.07); border-radius:8px; display:flex; align-items:center; gap:8px; font-size:11.5px; color:rgba(255,255,255,0.55); }
+    .status-dot { width:7px; height:7px; border-radius:50%; background:var(--dot-color); box-shadow:0 0 0 3px rgba(159,225,203,0.2); flex-shrink:0; }
+
+    nav { padding:18px 0; flex:1; }
+    .nav-label { font-size:10px; letter-spacing:0.1em; color:rgba(255,255,255,0.28); text-transform:uppercase; padding:0 22px 8px; }
+    .nav-item { display:flex; align-items:center; gap:11px; padding:11px 22px; font-size:13.5px; font-weight:400; color:rgba(255,255,255,0.5); cursor:pointer; border-left:2px solid transparent; transition:all 0.15s ease; user-select:none; }
+    .nav-item:hover { color:rgba(255,255,255,0.85); background:rgba(255,255,255,0.05); }
+    .nav-item.active { color:white; background:rgba(255,255,255,0.09); border-left-color:var(--sidebar-accent); font-weight:500; }
+    .nav-item .icon { font-size:15px; width:18px; text-align:center; flex-shrink:0; }
+
+    .sidebar-footer { padding:16px 22px; border-top:1px solid rgba(255,255,255,0.08); }
+    .btn-reset { width:100%; padding:9px 12px; background:transparent; border:1px solid rgba(255,255,255,0.18); border-radius:9px; color:rgba(255,255,255,0.6); font-family:'DM Sans',sans-serif; font-size:12.5px; cursor:pointer; display:flex; align-items:center; justify-content:center; gap:7px; transition:all 0.15s; }
+    .btn-reset:hover { background:rgba(255,255,255,0.07); color:white; border-color:rgba(255,255,255,0.32); }
+
+    #weekly-bars {
+      display: flex;
+      height: 120px; /* Chiều cao vùng vẽ cột */
+      align-items: flex-end;
+      gap: 5px;
+      padding: 0 10px;
+    }
+
+    #weekly-day-labels {
+        display: flex;
+        margin-top: 8px;
+        padding: 0 10px;
+    }
+      /* MAIN */
+    .main { display:flex; flex-direction:column; height:100vh; background:var(--white); }
+
+    .topbar { display:flex; align-items:center; padding:14px 24px; border-bottom:1px solid var(--gray-100); gap:12px; flex-shrink:0; }
+    .topbar-dot { width:8px; height:8px; border-radius:50%; background:var(--dot-color); flex-shrink:0; }
+    .topbar-title { font-size:14.5px; font-weight:500; color:var(--gray-800); }
+    .topbar-right { margin-left:auto; display:flex; align-items:center; gap:8px; }
+
+    .emotion-chip { display:inline-flex; align-items:center; gap:5px; padding:4px 11px; background:var(--chip-bg); border-radius:20px; font-size:12px; color:var(--chip-text); font-weight:500; transition:all 0.3s ease; }
+    .emotion-chip .dot { font-size:9px; color:var(--primary-800); }
+
+    .panel { display:none; flex:1; overflow:hidden; flex-direction:column; }
+    .panel.active { display:flex; }
+
+    /* CHAT */
+    .chat-area { flex:1; overflow-y:auto; padding:24px 28px; display:flex; flex-direction:column; gap:18px; background:var(--gray-50); scroll-behavior:smooth; }
+    .chat-area::-webkit-scrollbar { width:4px; }
+    .chat-area::-webkit-scrollbar-thumb { background:var(--gray-200); border-radius:4px; }
+
+    .msg-row { display:flex; gap:10px; align-items:flex-end; animation:fadeUp 0.25s ease both; }
+    @keyframes fadeUp { from { opacity:0; transform:translateY(8px); } to { opacity:1; transform:translateY(0); } }
+    .msg-row.user { flex-direction:row-reverse; }
+
+    .avatar { width:30px; height:30px; border-radius:50%; flex-shrink:0; display:flex; align-items:center; justify-content:center; font-size:11.5px; font-weight:500; }
+    .avatar.bot  { background:#e6f8f2; color:#3a8a72; }
+    .avatar.user { background:#fce8f0; color:#b05070; }
+
+    .bubble-wrap { max-width:72%; display:flex; flex-direction:column; gap:5px; }
+    .msg-row.user .bubble-wrap { align-items:flex-end; }
+
+    .bubble { padding:11px 15px; font-size:14px; line-height:1.65; border-radius:14px; }
+    .bubble.bot  { background:var(--white); border:1px solid var(--gray-100); color:var(--gray-800); border-radius:4px 14px 14px 14px; }
+    .bubble.user { background:var(--primary-800); color:#5a2840; border-radius:14px 4px 14px 14px; }
+
+    .emotion-tag { display:inline-flex; align-items:center; gap:5px; padding:3px 9px; background:var(--etag-bg); border-radius:20px; font-size:11.5px; color:var(--etag-text); font-weight:500; width:fit-content; }
+
+    .typing-row { display:none; }
+    .typing-row.show { display:flex; }
+    .typing-bubble { padding:12px 16px; background:var(--white); border:1px solid var(--gray-100); border-radius:4px 14px 14px 14px; display:flex; gap:5px; align-items:center; }
+    .dot-blink { width:7px; height:7px; border-radius:50%; background:var(--gray-400); animation:blink 1.2s infinite both; }
+    .dot-blink:nth-child(2) { animation-delay:0.2s; }
+    .dot-blink:nth-child(3) { animation-delay:0.4s; }
+    @keyframes blink { 0%,80%,100% { opacity:0.3; transform:scale(0.9); } 40% { opacity:1; transform:scale(1.1); } }
+
+    .input-area { padding:16px 24px; background:var(--white); border-top:1px solid var(--gray-100); display:flex; gap:10px; align-items:flex-end; flex-shrink:0; }
+    .input-wrap { flex:1; background:var(--gray-50); border:1px solid var(--gray-100); border-radius:12px; display:flex; align-items:flex-end; padding:10px 14px; transition:border-color 0.15s; }
+    .input-wrap:focus-within { border-color:var(--focus-border); }
+    #chat-input { flex:1; border:none; background:transparent; font-family:'DM Sans',sans-serif; font-size:14px; color:var(--gray-800); resize:none; outline:none; line-height:1.5; max-height:120px; overflow-y:auto; }
+    #chat-input::placeholder { color:var(--gray-400); }
+
+    .btn-send { width:40px; height:40px; border-radius:11px; background:var(--btn-bg); border:none; cursor:pointer; display:flex; align-items:center; justify-content:center; flex-shrink:0; transition:background 0.15s, transform 0.1s; }
+    .btn-send:hover  { background:var(--btn-hover); }
+    .btn-send:active { transform:scale(0.94); }
+    .btn-send svg { width:17px; height:17px; fill:white; }
+
+    /* STATS */
+    .stats-panel { flex:1; overflow-y:auto; padding:28px; background:var(--gray-50); }
+    .panel-heading { font-family:'DM Serif Display',serif; font-size:22px; color:var(--gray-900); margin-bottom:6px; }
+    .panel-sub { font-size:13px; color:var(--gray-400); margin-bottom:24px; }
+    .stat-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:14px; margin-bottom:24px; }
+    .stat-card { background:var(--white); border:1px solid var(--gray-100); border-radius:12px; padding:16px; }
+    .stat-label { font-size:11.5px; color:var(--gray-400); text-transform:uppercase; letter-spacing:0.07em; margin-bottom:6px; }
+    .stat-value { font-size:26px; font-weight:300; color:var(--gray-900); line-height:1; }
+    .chart-placeholder { background:var(--white); border:1px solid var(--gray-100); border-radius:12px; padding:20px; margin-bottom:16px; }
+    .chart-title { font-size:13px; font-weight:500; color:var(--gray-800); margin-bottom:16px; }
+    .mini-chart { height:80px; display:flex; align-items:flex-end; gap:6px; }
+    .bar { flex:1; border-radius:4px 4px 0 0; background:var(--bar-default); transition:height 0.4s ease; min-height:4px; }
+    .bar.active { background:var(--bar-active); }
+    .day-labels { display:flex; gap:6px; margin-top:6px; }
+    .day-labels span { flex:1; text-align:center; font-size:11px; color:var(--gray-400); }
+    .empty-state { display:flex; flex-direction:column; align-items:center; justify-content:center; height:100%; gap:12px; color:var(--gray-400); text-align:center; padding:40px; }
+    .empty-icon { width:48px; height:48px; background:var(--gray-50); border-radius:14px; display:flex; align-items:center; justify-content:center; font-size:22px; }
+    .empty-state p { font-size:13.5px; line-height:1.6; max-width:220px; }
+
+    #toast { position:fixed; bottom:24px; left:50%; transform:translateX(-50%) translateY(20px); background:var(--gray-900); color:white; padding:10px 18px; border-radius:10px; font-size:13px; opacity:0; transition:all 0.25s ease; pointer-events:none; z-index:999; white-space:nowrap; }
+    #toast.show { opacity:1; transform:translateX(-50%) translateY(0); }
+  </style>
+</head>
+<body>
+<div class="app">
+
+  <aside class="sidebar">
+    <div class="sidebar-header">
+      <div class="brand">
+        <div class="brand-icon">
+          <svg viewBox="0 0 24 24"><path d="M17 8C8 10 5.9 16.17 3.82 20H5.71C6.66 18 7 17 8 17c1 0 1 1 2 1s1-1 2-1 1 1 2 1 1-1 2-1c1 0 1.67 1.33 2 2H21C19.53 16.36 17 12 17 8z"/></svg>
+        </div>
+        <span class="brand-name">MindSpace</span>
+      </div>
+      <div class="brand-tagline">AI Therapy Assistant</div>
+      <div class="session-badge">
+        <div class="status-dot"></div>
+        <span id="session-label">Sẵn sàng lắng nghe</span>
+      </div>
+    </div>
+    <nav>
+      <div class="nav-label">Chức năng</div>
+      <div class="nav-item active" data-panel="chat"><span class="icon">💬</span> Hội thoại</div>
+      <div class="nav-item" data-panel="mood"><span class="icon">📈</span> Mood Timeline</div>
+      <div class="nav-item" data-panel="graph"><span class="icon">🔀</span> Emotion Graph</div>
+      <div class="nav-item" data-panel="weekly"><span class="icon">📋</span> Tổng kết tuần</div>
+    </nav>
+    <div class="sidebar-footer">
+      <button class="btn-reset" id="btn-reset">↺ &nbsp;New chat</button>
+    </div>
+  </aside>
+
+  <main class="main">
+    <div class="topbar">
+      <div class="topbar-dot"></div>
+      <span class="topbar-title" id="panel-title">Trò chuyện</span>
+      <div class="topbar-right">
+        <div class="emotion-chip" id="emotion-chip" style="display:none">
+          <span class="dot">●</span><span id="emotion-label">—</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="panel active" id="panel-chat">
+      <div class="chat-area" id="chat-area">
+        <div class="msg-row bot" id="welcome-msg">
+          <div class="avatar bot">🌿</div>
+          <div class="bubble-wrap">
+            <div class="bubble bot">Xin chào! Mình là <strong>MindSpace</strong> — người bạn đồng hành cảm xúc của bạn.<br>Hôm nay bạn cảm thấy thế nào? Mình đang lắng nghe 😊</div>
+          </div>
+        </div>
+        <div class="msg-row bot typing-row" id="typing-row">
+          <div class="avatar bot">🌿</div>
+          <div class="typing-bubble">
+            <div class="dot-blink"></div><div class="dot-blink"></div><div class="dot-blink"></div>
+          </div>
+        </div>
+      </div>
+      <div class="input-area">
+        <div class="input-wrap">
+          <textarea id="chat-input" rows="1" placeholder="Nhập tin nhắn của bạn..."></textarea>
+        </div>
+        <button class="btn-send" id="btn-send" title="Gửi (Enter)">
+          <svg viewBox="0 0 24 24"><path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/></svg>
+        </button>
+      </div>
+    </div>
+
+    <div class="panel" id="panel-mood">
+      <div class="stats-panel">
+        <div class="panel-heading">Mood Timeline</div>
+        <div class="panel-sub">Theo dõi cảm xúc theo thời gian hội thoại</div>
+        <div class="stat-grid">
+          <div class="stat-card"><div class="stat-label">Tổng lượt</div><div class="stat-value" id="stat-total">—</div></div>
+          <div class="stat-card"><div class="stat-label">Điểm TB</div><div class="stat-value" id="stat-avg">—</div></div>
+          <div class="stat-card"><div class="stat-label">Xu hướng</div><div class="stat-value" id="stat-trend">—</div></div>
+        </div>
+        <div class="chart-placeholder" id="mood-chart-area">
+          <div class="empty-state"><div class="empty-icon">📊</div><p>Chưa có dữ liệu!</p></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="panel" id="panel-graph">
+      <div class="stats-panel">
+        <div class="panel-heading">Emotion Transition</div>
+        <div class="panel-sub">Các chuỗi cảm xúc phổ biến</div>
+        <div class="chart-placeholder" id="graph-area">
+          <div class="empty-state"><div class="empty-icon">🔀</div><p>Cần ít nhất 2 lượt chat để hiện đồ thị cảm xúc.</p></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="panel" id="panel-weekly">
+      <div class="stats-panel">
+        <div class="panel-heading">Tổng kết tuần</div>
+        <div class="panel-sub">Báo cáo cảm xúc 7 ngày gần nhất</div>
+        <div class="chart-placeholder" id="weekly-chart">
+          <div class="chart-title">Điểm mood theo ngày</div>
+          <div class="mini-chart" id="weekly-bars"></div>
+          <div class="day-labels" id="weekly-day-labels"></div>
+        </div>
+        <div class="chart-placeholder" id="weekly-report" style="white-space:pre-wrap;font-size:13.5px;line-height:1.7;color:var(--gray-800);">
+          <div class="empty-state"><div class="empty-icon">📋</div><p>Chưa có dữ liệu tuần này.</p></div>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>
+
+<div id="toast"></div>
+
+<script>
+  function showToast(msg) {
+    const t = document.getElementById('toast');
+    t.textContent = msg; t.classList.add('show');
+    setTimeout(() => t.classList.remove('show'), 2500);
+  }
+  function autoResize(el) { el.style.height='auto'; el.style.height=Math.min(el.scrollHeight,120)+'px'; }
+
+  const panelTitles = { chat:'Trò chuyện', mood:'Mood Timeline', graph:'Emotion Graph', weekly:'Tổng kết tuần' };
+  document.querySelectorAll('.nav-item').forEach(item => {
+    item.addEventListener('click', () => {
+      document.querySelectorAll('.nav-item').forEach(n=>n.classList.remove('active'));
+      document.querySelectorAll('.panel').forEach(p=>p.classList.remove('active'));
+      item.classList.add('active');
+      document.getElementById('panel-'+item.dataset.panel).classList.add('active');
+      document.getElementById('panel-title').textContent = panelTitles[item.dataset.panel];
+      if (item.dataset.panel === 'mood') {
+        loadMoodStats();
+        loadMoodTimeline();
+    }
+      if (item.dataset.panel==='weekly') loadWeekly();
+      if (item.dataset.panel === 'graph') {loadEmotionGraph();}
+    });
+  });
+
+  const chatArea  = document.getElementById('chat-area');
+  const inputEl   = document.getElementById('chat-input');
+  const typingRow = document.getElementById('typing-row');
+
+  function addBubble(text, role, emotion) {
+    if (role==='bot') typingRow.classList.remove('show');
+    const row = document.createElement('div'); row.className=`msg-row ${role}`;
+    const av = document.createElement('div');  av.className=`avatar ${role}`;
+    av.textContent = role==='bot' ? '🌿' : 'Bạn';
+    av.style.fontSize = role==='user' ? '10px' : '14px';
+    const wrap = document.createElement('div'); wrap.className='bubble-wrap';
+    const bubble = document.createElement('div'); bubble.className=`bubble ${role}`;
+    bubble.innerHTML = text.replace(/\n/g,'<br>');
+    wrap.appendChild(bubble);
+    if (role==='bot' && emotion) {
+      const tag = document.createElement('div'); tag.className='emotion-tag';
+      tag.textContent = '● '+emotion; wrap.appendChild(tag);
+      document.getElementById('emotion-chip').style.display='inline-flex';
+      document.getElementById('emotion-label').textContent = emotion;
+    }
+    row.appendChild(av); row.appendChild(wrap);
+    chatArea.insertBefore(row, typingRow);
+    chatArea.scrollTop = chatArea.scrollHeight;
+  }
+
+  async function sendMessage() {
+    const msg = inputEl.value.trim(); if (!msg) return;
+    addBubble(msg,'user'); inputEl.value=''; autoResize(inputEl);
+    typingRow.classList.add('show'); chatArea.scrollTop=chatArea.scrollHeight;
+    try {
+      const res = await fetch('/api/chat', { method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({message:msg}) });
+      if (!res.ok) throw new Error('Server error '+res.status);
+      const data = await res.json();
+      addBubble(data.reply,'bot',data.emotion||null);
+    } catch(err) {
+      typingRow.classList.remove('show');
+      addBubble('Không kết nối được server.','bot');
+      console.error(err);
+    }
+  }
+
+  document.getElementById('btn-send').addEventListener('click', sendMessage);
+  inputEl.addEventListener('keydown', e=>{ if(e.key==='Enter'&&!e.shiftKey){e.preventDefault();sendMessage();} });
+  inputEl.addEventListener('input', ()=>autoResize(inputEl));
+
+  document.getElementById('btn-reset').addEventListener('click', async ()=>{
+    try { await fetch('/api/reset',{method:'POST'}); } catch(_){}
+    Array.from(chatArea.children).forEach(el=>{ if(el.id!=='welcome-msg'&&el.id!=='typing-row') el.remove(); });
+    document.getElementById('emotion-chip').style.display='none';
+    document.getElementById('session-label').textContent='Phiên mới';
+    showToast('Đã reset phiên hội thoại ✓');
+  });
+
+  async function loadMoodStats() {
+    try {
+      const res = await fetch('/api/mood-stats'); if(!res.ok) return;
+      const data = await res.json(); if(data.error) return;
+      document.getElementById('stat-total').textContent = data.total||'—';
+      document.getElementById('stat-avg').textContent   = data.avg_score ? data.avg_score.toFixed(1):'—';
+      document.getElementById('stat-trend').textContent = data.trend||'—';
+    } catch(_){}
+  }
+
+
+  async function loadMoodTimeline() {
+    const area = document.getElementById('mood-chart-area');
+    const totalEl = document.getElementById('stat-total');
+    const avgEl = document.getElementById('stat-avg');
+    const trendEl = document.getElementById('stat-trend');
+
+    try {
+      const res = await fetch('/api/mood-timeline');
+      if (!res.ok) return;
+      const data = await res.json();
+
+      if (!data.points || !data.points.length) {
+        area.innerHTML = `<div class="empty-state">...</div>`;
+        return;
+      }
+
+      const scores = data.points.map(p => p.score);
+      const total = scores.length;
+      const avg = (scores.reduce((a, b) => a + b, 0) / total).toFixed(1);
+      totalEl.innerText = total;
+      avgEl.innerText = avg;
+      trendEl.innerText = (total >= 2 && scores[total-1] > scores[total-2]) ? "⬆️ Tốt lên" : "⬇️ Giảm";
+
+      const width = area.clientWidth || 500;
+      const height = 240; 
+      const marginLeft = 50;  
+      const marginBottom = 50; 
+      const padding = 20;
+      
+      const minY = -3;
+      const maxY = 3;
+
+      const getX = (i) => (i / (total > 1 ? total - 1 : 1)) * (width - marginLeft - padding*2) + marginLeft + padding;
+      const getY = (s) => {
+        const ratio = (s - minY) / (maxY - minY);
+        return (height - marginBottom) - (ratio * (height - marginBottom - padding*2) + padding);
+      };
+
+      const points = data.points.map((p, i) => ({ x: getX(i), y: getY(p.score), score: p.score }));
+      const pathData = points.map(p => `${p.x},${p.y}`).join(' ');
+
+      const yTicks = [-3, -2, -1, 0, 1, 2, 3].map(val => `
+        <g>
+          <text x="${marginLeft - 10}" y="${getY(val)}" text-anchor="end" font-size="10" fill="#9ca3af" alignment-baseline="middle">${val}</text>
+          <line x1="${marginLeft}" y1="${getY(val)}" x2="${width}" y2="${getY(val)}" stroke="#f3f4f6" stroke-width="1" />
+        </g>
+      `).join('');
+
+      area.innerHTML = `
+        <div style="width:100%; height:${height}px; position:relative; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+          <svg width="100%" height="100%" viewBox="0 0 ${width} ${height}">
+            
+            <text x="15" y="${(height - marginBottom)/2}" transform="rotate(-90, 15, ${(height - marginBottom)/2})" 
+                  text-anchor="middle" font-size="12" font-weight="600" fill="#6b7280" letter-spacing="1">MOOD SCORE</text>
+            
+            ${yTicks}
+
+            <line x1="${marginLeft}" y1="${getY(0)}" x2="${width}" y2="${getY(0)}" stroke="#d1d5db" stroke-width="1.5" />
+
+            <polyline points="${pathData}" fill="none" stroke="#6366f1" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+            
+            ${points.map(p => `
+              <circle cx="${p.x}" cy="${p.y}" r="4.5" fill="${p.score >= 0 ? '#4ade80' : '#f87171'}" stroke="white" stroke-width="2" />
+            `).join('')}
+
+            <text x="${(width + marginLeft)/2}" y="${height - 10}" text-anchor="middle" font-size="12" font-weight="600" fill="#6b7280" letter-spacing="1">CHAT STEPS</text>
+          </svg>
+
+          <div style="position:absolute; bottom:30px; left:0; width:100%; pointer-events:none;">
+            ${points.map(p => `
+              <span style="position:absolute; left:${p.x}px; transform:translateX(-50%); font-size:10px; color:#9ca3af; font-weight:500;">
+                ${data.points[points.indexOf(p)].step || points.indexOf(p)+1}
+              </span>
+            `).join('')}
+          </div>
+        </div>
+      `;
+
+    } catch(err) {
+      console.error("Lỗi:", err);
+    }
+  }
+  async function loadWeeklyReport() {
+      const barsArea = document.getElementById('weekly-bars');
+      const labelsArea = document.getElementById('weekly-day-labels');
+      const reportArea = document.getElementById('weekly-report');
+
+      try {
+          const res = await fetch('/api/weekly');
+          if (!res.ok) return;
+          const data = await res.json();
+
+          if (data.report) {
+              reportArea.innerHTML = `<div style="padding: 10px;">${data.report}</div>`;
+          }
+
+          if (data.chart_data && data.chart_data.length > 0) {
+              const maxScore = 3; // Thang điểm tối đa
+
+              barsArea.innerHTML = data.chart_data.map(d => {
+                  // Tính chiều cao dựa trên score (giả sử từ -3 đến 3)
+                  // Chuyển score về % để hiển thị
+                  const heightPercent = ((d.score + 3) / 6) * 100; 
+                  const barColor = d.score >= 0 ? 'var(--primary-400, #4ade80)' : '#f87171';
+
+                  return `
+                      <div style="flex:1; display:flex; flex-direction:column; justify-content:flex-end; height:100%;">
+                          <div title="Điểm: ${d.score}" style="
+                              height: ${Math.max(heightPercent, 5)}%; 
+                              width: 60%; 
+                              margin: 0 auto;
+                              background: ${barColor};
+                              border-radius: 4px 4px 0 0;
+                              transition: height 0.5s ease;
+                          "></div>
+                      </div>
+                  `;
+              }).join('');
+
+              labelsArea.innerHTML = data.chart_data.map(d => `
+                  <div style="flex:1; text-align:center; font-size:11px; color:var(--gray-500);">${d.label}</div>
+              `).join('');
+          }
+      } catch (err) {
+          console.error("Lỗi tải báo cáo tuần:", err);
+      }
+  }
+  async function loadEmotionGraph() {
+      const area = document.getElementById('graph-area');
+      if (!area) return;
+
+      try {
+          const res = await fetch('/api/emotion-graph');
+          const data = await res.json();
+
+          if (!data.emotions || data.emotions.length < 2) return;
+
+          area.innerHTML = ''; 
+
+          const nodesHtml = data.emotions.map((emo, i) => `
+              <div style="display: flex; align-items: center; flex-shrink: 0;">
+                  <div style="
+                      background: white; 
+                      border: 2px solid ${i === data.emotions.length - 1 ? '#6366f1' : '#e5e7eb'}; 
+                      padding: 15px; 
+                      border-radius: 18px; 
+                      box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
+                      text-align: center;
+                      min-width: 100px;
+                  ">
+                      <div style="font-size: 24px; margin-bottom: 5px;">${getEmoji(emo)}</div>
+                      <div style="font-size: 11px; font-weight: 800; color: #4b5563; letter-spacing: 0.5px;">${emo.toUpperCase()}</div>
+                  </div>
+                  ${i < data.emotions.length - 1 ? `
+                      <div style="margin: 0 15px; color: #d1d5db; font-size: 20px;">➔</div>
+                  ` : ''}
+              </div>
+          `).join('');
+
+          area.innerHTML = `
+              <div style="
+                  display: flex; 
+                  flex-wrap: nowrap; 
+                  overflow-x: auto; 
+                  padding: 30px 10px; 
+                  gap: 5px;
+                  align-items: center;
+                  scrollbar-width: thin;
+              ">
+                  ${nodesHtml}
+              </div>
+          `;
+      } catch (err) {
+          console.error("Lỗi:", err);
+      }
+  }
+
+  function getEmoji(emo) {
+      const map = {
+          "joy": "😊", "sadness": "😢", "anger": "😡", "fear": "😨", 
+          "neutral": "😐", "surprise": "😲", "disgust": "🤢", "apprehensive": "😟"
+      };
+      return map[emo.toLowerCase()] || "😶";
+  }
+  async function loadWeekly() {
+    const barsArea = document.getElementById('weekly-bars');
+    const labelsArea = document.getElementById('weekly-day-labels');
+    const reportArea = document.getElementById('weekly-report');
+
+    reportArea.innerHTML = `<div class="empty-state"><p>Đang phân tích dữ liệu tuần...</p></div>`;
+
+    try {
+      const res = await fetch('/api/weekly');
+      if (!res.ok) throw new Error("Không thể tải dữ liệu");
+      const data = await res.json();
+
+      if (data.report) {
+        reportArea.innerHTML = `<div style="padding: 10px; white-space: pre-wrap;">${data.report}</div>`;
+      } else {
+        reportArea.innerHTML = `<div class="empty-state"><p>Chưa có đủ dữ liệu tuần này.</p></div>`;
+      }
+
+      if (data.chart_data && data.chart_data.length > 0) {
+        const maxScore = 3; 
+        
+        barsArea.innerHTML = data.chart_data.map(d => {
+          // Chuyển score (ví dụ từ -3 đến 3) thành chiều cao %
+          // (score + 3) / 6 * 100 
+          const h = ((d.score + 3) / 6) * 100;
+          const color = d.score >= 0 ? 'var(--primary-500, #6366f1)' : '#f87171';
+          
+          return `
+            <div style="flex:1; display:flex; flex-direction:column; justify-content:flex-end; height:100%;">
+              <div title="${d.label}: ${d.score}" style="
+                height:${Math.max(h, 5)}%; 
+                width:60%; 
+                margin:0 auto; 
+                background:${color}; 
+                border-radius:4px 4px 0 0;
+                transition: height 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+              "></div>
+            </div>
+          `;
+        }).join('');
+
+        labelsArea.innerHTML = data.chart_data.map(d => `
+          <div style="flex:1; text-align:center; font-size:11px; color:var(--gray-500); font-weight:500;">
+            ${d.label}
+          </div>
+        `).join('');
+      }
+
+    } catch (err) {
+      console.error("Lỗi Weekly:", err);
+      reportArea.innerHTML = `<div class="empty-state"><p>Lỗi kết nối máy chủ.</p></div>`;
+    }
+  }
+</script>
+</body>
+</html>
