@@ -1,0 +1,13 @@
+[
+    {
+        "model": "A2",
+        "timestamp": "2026-05-09 01:12:05",
+        "metrics": {
+            "vqa_accuracy": 53.9,
+            "bleu": 0.0,
+            "rougeL": 62.04,
+            "meteor": 31.61,
+            "bertscore_f1": 84.73
+        }
+    }
+]

@@ -1,0 +1,12 @@
+{
+  "model_name": "A1_LSTM",
+  "results": {
+    "exact_match": 0.5638126009693053,
+    "vqa_soft_accuracy": 0.5638126009693053,
+    "bleu": 0.11640087050106564,
+    "rougeL": 0.6287747270380546,
+    "meteor": 0.32224389206163173,
+    "bertscore_f1": 0.9300649762153625,
+    "num_samples": 1857
+  }
+}

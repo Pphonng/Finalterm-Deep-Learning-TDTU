@@ -1,0 +1,12 @@
+{
+  "model_name": "B2_FineTuned",
+  "results": {
+    "exact_match": 0.0,
+    "vqa_soft_accuracy": 0.0,
+    "bleu": 0.00018596864872362794,
+    "rougeL": 0.04976207541400325,
+    "meteor": 0.014474430619543056,
+    "bertscore_f1": 0.7259187698364258,
+    "num_samples": 1857
+  }
+}

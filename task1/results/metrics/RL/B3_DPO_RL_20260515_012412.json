@@ -1,0 +1,12 @@
+{
+  "model_name": "B3_DPO_RL",
+  "results": {
+    "exact_match": 0.4964997307485191,
+    "vqa_soft_accuracy": 0.4964997307485191,
+    "bleu": 0.1319352680271432,
+    "rougeL": 0.566212921584488,
+    "meteor": 0.2940008085114664,
+    "bertscore_f1": 0.9112665057182312,
+    "num_samples": 1857
+  }
+}

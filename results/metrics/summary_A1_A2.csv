@@ -1,3 +1,0 @@
-Cấu hình,VQA Acc (%),BLEU,ROUGE-L,METEOR,BERTScore F1
-A1 (LSTM Decoder),3775.0,0.0,4363.0,2016.0,8175.0
-A2 (Transformer Decoder),4577.0,0.0,5357.0,2658.0,8308.0

@@ -1,0 +1,12 @@
+{
+  "model_name": "A2_Transformer",
+  "results": {
+    "exact_match": 0.5659666128163705,
+    "vqa_soft_accuracy": 0.5659666128163705,
+    "bleu": 0.11540629382907752,
+    "rougeL": 0.6320327088097686,
+    "meteor": 0.3179809090027526,
+    "bertscore_f1": 0.9320924878120422,
+    "num_samples": 1857
+  }
+}

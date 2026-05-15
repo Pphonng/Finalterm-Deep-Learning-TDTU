@@ -1,60 +1,60 @@
 {
-  "config": "A1",
+  "config": "A2",
   "predictions": [
     {
-      "pred": "có",
+      "pred": "có đuôi",
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "có hai con",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "nhiều cây",
       "ref": "nhiều"
     },
     {
-      "pred": "một",
+      "pred": "một con",
       "ref": "một"
     },
     {
-      "pred": "trắng",
+      "pred": "màu nâu",
       "ref": "nâu"
     },
     {
-      "pred": "trắng",
+      "pred": "màu nâu",
       "ref": "đen"
     },
     {
-      "pred": "đang đứng",
+      "pred": "đang đi dạo",
       "ref": "đi"
     },
     {
-      "pred": "trên",
+      "pred": "trên cây",
       "ref": "rừng"
     },
     {
-      "pred": "trắng",
+      "pred": "màu nâu",
       "ref": "đen"
     },
     {
-      "pred": "trên",
+      "pred": "đang nằm",
       "ref": "Đất"
     },
     {
-      "pred": "có",
+      "pred": "không có",
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "một con",
       "ref": "Bảy"
     },
     {
-      "pred": "một",
+      "pred": "hai con",
       "ref": "Một"
     },
     {
-      "pred": "nâu",
+      "pred": "màu nâu",
       "ref": "Nâu"
     },
     {
@@ -66,11 +66,11 @@
       "ref": "Có"
     },
     {
-      "pred": "trên",
+      "pred": "trên đá",
       "ref": "Trên đất"
     },
     {
-      "pred": "đang đứng",
+      "pred": "đi dạo",
       "ref": "Bú sữa"
     },
     {
@@ -78,23 +78,23 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "có đuôi",
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "bốn chân",
       "ref": "Bốn"
     },
     {
-      "pred": "một",
+      "pred": "một con",
       "ref": "Một"
     },
     {
-      "pred": "nâu",
+      "pred": "màu nâu",
       "ref": "Xám"
     },
     {
@@ -102,11 +102,11 @@
       "ref": "Lớn"
     },
     {
-      "pred": "trên",
+      "pred": "trên đất",
       "ref": "Đồng cỏ"
     },
     {
-      "pred": "đang đứng",
+      "pred": "đi dạo",
       "ref": "Đi dạo"
     },
     {
@@ -114,39 +114,43 @@
       "ref": "Dài"
     },
     {
-      "pred": "lớn",
+      "pred": "dài",
       "ref": "Ngắn"
     },
     {
-      "pred": "có",
+      "pred": "có màu đen",
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "một con",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "một con",
       "ref": "Một"
     },
     {
-      "pred": "có",
+      "pred": "có tai lớn",
       "ref": "Có"
     },
     {
-      "pred": "nâu",
+      "pred": "màu nâu",
       "ref": "Nâu"
     },
     {
-      "pred": "đang đứng",
+      "pred": "đang nằm",
       "ref": "Ăn"
     },
     {
-      "pred": "trên",
+      "pred": "trên cạn",
       "ref": "Trên đường"
     },
     {
-      "pred": "có",
+      "pred": "có màu nâu",
+      "ref": "Có"
+    },
+    {
+      "pred": "có mõm",
       "ref": "Có"
     },
     {
@@ -158,43 +162,39 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
-      "ref": "Có"
-    },
-    {
-      "pred": "có",
+      "pred": "có màu đen",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "một con",
       "ref": "Một"
     },
     {
-      "pred": "một",
+      "pred": "bốn chân",
       "ref": "Không"
     },
     {
-      "pred": "nâu",
+      "pred": "màu nâu",
       "ref": "Xám"
     },
     {
-      "pred": "đang đứng",
+      "pred": "động vật này có bộ",
       "ref": "Lông trên lưng"
     },
     {
-      "pred": "đang đứng",
+      "pred": "đi dạo",
       "ref": "Nhảy"
     },
     {
-      "pred": "có",
+      "pred": "dài",
       "ref": "Có"
     },
     {
-      "pred": "trên",
+      "pred": "cỏ và cây cối",
       "ref": "Cỏ"
     },
     {
-      "pred": "trên",
+      "pred": "trên đất",
       "ref": "Cánh đồng"
     },
     {
@@ -210,11 +210,11 @@
       "ref": "Một"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Hai"
     },
     {
-      "pred": "nâu",
+      "pred": "xám",
       "ref": "Xám"
     },
     {
@@ -222,11 +222,11 @@
       "ref": "Có"
     },
     {
-      "pred": "đứng",
+      "pred": "nằm",
       "ref": "Đứng"
     },
     {
-      "pred": "trên",
+      "pred": "rừng",
       "ref": "Đá và cây cối"
     },
     {
@@ -234,11 +234,11 @@
       "ref": "Có"
     },
     {
-      "pred": "trên",
+      "pred": "rừng",
       "ref": "Vườn thú"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Có"
     },
     {
@@ -250,11 +250,11 @@
       "ref": "Một"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Hai"
     },
     {
-      "pred": "nâu",
+      "pred": "xám",
       "ref": "Xám"
     },
     {
@@ -266,15 +266,15 @@
       "ref": "Dạ"
     },
     {
-      "pred": "đứng",
+      "pred": "nằm",
       "ref": "Đứng"
     },
     {
-      "pred": "đang đứng",
+      "pred": "đá",
       "ref": "Đá và cây"
     },
     {
-      "pred": "trên",
+      "pred": "rừng",
       "ref": "Ngoài trời"
     },
     {
@@ -286,15 +286,15 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "hai"
     },
     {
-      "pred": "nâu",
+      "pred": "xám",
       "ref": "xám"
     },
     {
@@ -302,11 +302,11 @@
       "ref": "có"
     },
     {
-      "pred": "trên",
+      "pred": "rừng",
       "ref": "trong vườn"
     },
     {
-      "pred": "đứng",
+      "pred": "nằm",
       "ref": "ngồi"
     },
     {
@@ -322,63 +322,63 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "hai"
     },
     {
-      "pred": "nâu",
+      "pred": "đen",
       "ref": "xám"
     },
     {
-      "pred": "nâu",
+      "pred": "đen",
       "ref": "đen"
     },
     {
-      "pred": "đứng",
+      "pred": "đi dạo",
       "ref": "ngồi"
     },
     {
-      "pred": "lớn",
+      "pred": "to",
       "ref": "to"
     },
     {
-      "pred": "trên",
+      "pred": "rừng",
       "ref": "thảo nguyên"
     },
     {
-      "pred": "nâu",
+      "pred": "đen",
       "ref": "nâu"
     },
     {
-      "pred": "có",
+      "pred": "có lông màu đen",
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "một con",
       "ref": "hai"
     },
     {
-      "pred": "nâu",
+      "pred": "đen",
       "ref": "đen"
     },
     {
-      "pred": "một",
+      "pred": "hai mắt",
       "ref": "hai"
     },
     {
-      "pred": "nâu",
+      "pred": "đen",
       "ref": "đen"
     },
     {
-      "pred": "đứng",
+      "pred": "đang ngồi",
       "ref": "ôm mẹ"
     },
     {
-      "pred": "trên",
+      "pred": "rừng",
       "ref": "rừng"
     },
     {
@@ -390,31 +390,31 @@
       "ref": "Có"
     },
     {
-      "pred": "trên",
+      "pred": "bên trái",
       "ref": "trước mặt"
     },
     {
-      "pred": "có",
+      "pred": "có đeo ba người",
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "có sừng",
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "hai chiếc cánh",
       "ref": "một"
     },
     {
-      "pred": "một",
+      "pred": "một người",
       "ref": "một"
     },
     {
-      "pred": "nâu",
+      "pred": "màu nâu trắng",
       "ref": "xám"
     },
     {
-      "pred": "có",
+      "pred": "đang dang cánh",
       "ref": "đang"
     },
     {
@@ -422,11 +422,11 @@
       "ref": "đứng yên"
     },
     {
-      "pred": "trên",
+      "pred": "cánh đồng rộng lớn",
       "ref": "trên người tuần lộc"
     },
     {
-      "pred": "có",
+      "pred": "có tuyết",
       "ref": "Có"
     },
     {
@@ -434,19 +434,19 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "Bốn"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Hai"
     },
     {
-      "pred": "nâu",
+      "pred": "nâu trắng",
       "ref": "Nâu trắng"
     },
     {
@@ -454,71 +454,71 @@
       "ref": "Lớn"
     },
     {
-      "pred": "trên",
+      "pred": "trên tuyết",
       "ref": "Trên tuyết"
     },
     {
-      "pred": "đang đứng",
+      "pred": "đang nằm",
       "ref": "Đứng"
     },
     {
-      "pred": "nâu",
+      "pred": "xanh",
       "ref": "Xanh"
     },
     {
-      "pred": "có",
+      "pred": "có sừng",
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "có tuyết",
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "bốn chân",
       "ref": "Bốn"
     },
     {
-      "pred": "một",
+      "pred": "một con",
       "ref": "Một"
     },
     {
-      "pred": "nâu",
+      "pred": "màu nâu",
       "ref": "Trắng"
     },
     {
-      "pred": "đứng",
+      "pred": "to",
       "ref": "To"
     },
     {
-      "pred": "đang đứng",
+      "pred": "đang đi dạo",
       "ref": "Đi"
     },
     {
-      "pred": "có",
+      "pred": "có lông",
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "có tuyết",
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "có tuyết",
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "có sừng",
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "có đuôi",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "Bốn"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Hai"
     },
     {
@@ -530,55 +530,55 @@
       "ref": "Nâu"
     },
     {
-      "pred": "đứng",
+      "pred": "đứng yên lặng",
       "ref": "Đi"
     },
     {
-      "pred": "trên",
+      "pred": "trên đá",
       "ref": "Trên thảo nguyên"
     },
     {
-      "pred": "nâu",
+      "pred": "trắng",
       "ref": "Trắng"
     },
     {
-      "pred": "có",
+      "pred": "có sừng",
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "có sừng",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Hai"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Một"
     },
     {
-      "pred": "nâu",
+      "pred": "trắng",
       "ref": "Trắng"
     },
     {
-      "pred": "đang đứng",
+      "pred": "đang đi dạo",
       "ref": "Đi dạo"
     },
     {
-      "pred": "lớn",
+      "pred": "to",
       "ref": "To"
     },
     {
-      "pred": "trên",
+      "pred": "rừng cây",
       "ref": "Rừng cây"
     },
     {
-      "pred": "nâu",
+      "pred": "màu nâu",
       "ref": "Vàng"
     },
     {
-      "pred": "đang",
+      "pred": "sang trái",
       "ref": "Bên trái"
     },
     {
@@ -586,15 +586,15 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "2",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "2",
       "ref": "ba"
     },
     {
@@ -622,15 +622,15 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "có bốn chân",
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "một con",
       "ref": "Một"
     },
     {
-      "pred": "một",
+      "pred": "hai tai",
       "ref": "Hai"
     },
     {
@@ -638,11 +638,11 @@
       "ref": "Nâu"
     },
     {
-      "pred": "có",
+      "pred": "có lông mềm",
       "ref": "Mềm"
     },
     {
-      "pred": "trên",
+      "pred": "đồng cỏ",
       "ref": "Đồng cỏ"
     },
     {
@@ -654,35 +654,35 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "có lông màu trắng",
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không ở trong nước",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "bốn chân",
       "ref": "Bốn"
     },
     {
-      "pred": "một",
+      "pred": "nhiều cây",
       "ref": "Nhiều"
     },
     {
-      "pred": "có",
+      "pred": "có lông màu đen",
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "có tai dài",
       "ref": "Dài"
     },
     {
-      "pred": "đang đứng",
+      "pred": "đang nằm",
       "ref": "Chạy"
     },
     {
-      "pred": "có",
+      "pred": "có mắt",
       "ref": "Có"
     },
     {
@@ -690,7 +690,7 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "một con",
       "ref": "Một"
     },
     {
@@ -702,11 +702,11 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "2",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "2",
       "ref": "hai"
     },
     {
@@ -718,7 +718,7 @@
       "ref": "như bông"
     },
     {
-      "pred": "đứng",
+      "pred": "nằm",
       "ref": "giấu mình"
     },
     {
@@ -726,7 +726,7 @@
       "ref": "có"
     },
     {
-      "pred": "trên",
+      "pred": "trên đá",
       "ref": "trong chăn"
     },
     {
@@ -734,19 +734,19 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "bốn"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "ba"
     },
     {
-      "pred": "nâu",
+      "pred": "xám",
       "ref": "nâu"
     },
     {
@@ -754,11 +754,11 @@
       "ref": "dài"
     },
     {
-      "pred": "trên",
+      "pred": "trên đá",
       "ref": "ngoài đồng"
     },
     {
-      "pred": "đứng",
+      "pred": "nằm",
       "ref": "nằm"
     },
     {
@@ -770,11 +770,11 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "một con",
       "ref": "Bảy"
     },
     {
-      "pred": "nâu",
+      "pred": "trắng",
       "ref": "Trắng xám"
     },
     {
@@ -782,7 +782,7 @@
       "ref": "Bảy"
     },
     {
-      "pred": "có",
+      "pred": "có đuôi",
       "ref": "Không"
     },
     {
@@ -790,7 +790,7 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Có"
     },
     {
@@ -806,35 +806,35 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "có đuôi",
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "có màu trắng",
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "bốn chân",
       "ref": "bốn"
     },
     {
-      "pred": "một",
+      "pred": "nhiều",
       "ref": "nhiều"
     },
     {
-      "pred": "có",
+      "pred": "có lông màu đen",
       "ref": "Có"
     },
     {
-      "pred": "trên",
+      "pred": "gỗ",
       "ref": "hàng rào"
     },
     {
-      "pred": "lớn",
+      "pred": "dài",
       "ref": "dài"
     },
     {
-      "pred": "nâu",
+      "pred": "hồng",
       "ref": "hồng"
     },
     {
@@ -846,19 +846,19 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "có đuôi",
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "có màu đen",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "bốn"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "một"
     },
     {
@@ -866,11 +866,11 @@
       "ref": "Có"
     },
     {
-      "pred": "nâu",
+      "pred": "trắng",
       "ref": "trắng"
     },
     {
-      "pred": "trên",
+      "pred": "trên mặt đất",
       "ref": "trên bàn"
     },
     {
@@ -890,27 +890,27 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "có đuôi",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai tai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "hai mắt",
       "ref": "hai"
     },
     {
-      "pred": "nâu",
+      "pred": "hồng",
       "ref": "hồng"
     },
     {
-      "pred": "nâu",
+      "pred": "màu xám",
       "ref": "xám"
     },
     {
-      "pred": "đứng",
+      "pred": "đang ngủ",
       "ref": "đứng gần"
     },
     {
@@ -918,11 +918,11 @@
       "ref": "Có"
     },
     {
-      "pred": "trên",
+      "pred": "rừng",
       "ref": "rừng"
     },
     {
-      "pred": "trên",
+      "pred": "gỗ",
       "ref": "gốc cây"
     },
     {
@@ -934,7 +934,7 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "Bốn"
     },
     {
@@ -954,31 +954,31 @@
       "ref": "Leo"
     },
     {
-      "pred": "trên",
+      "pred": "trên cây",
       "ref": "Trên hàng rào"
     },
     {
-      "pred": "đứng",
+      "pred": "gỗ",
       "ref": "Hàng rào"
     },
     {
-      "pred": "có",
+      "pred": "có sừng",
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không ở trong nhà",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai con",
       "ref": "bốn"
     },
     {
-      "pred": "một",
+      "pred": "hai con",
       "ref": "bảy"
     },
     {
-      "pred": "nâu",
+      "pred": "màu nâu",
       "ref": "nâu"
     },
     {
@@ -986,15 +986,15 @@
       "ref": "Có"
     },
     {
-      "pred": "đứng",
+      "pred": "đứng yên lặng",
       "ref": "đứng"
     },
     {
-      "pred": "trên",
+      "pred": "cánh đồng khô",
       "ref": "cỏ"
     },
     {
-      "pred": "có",
+      "pred": "dài",
       "ref": "ngắn"
     },
     {
@@ -1006,11 +1006,11 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
@@ -1018,55 +1018,55 @@
       "ref": "nâu"
     },
     {
-      "pred": "lớn",
+      "pred": "dài",
       "ref": "dài"
     },
     {
-      "pred": "trên",
+      "pred": "đồng cỏ",
       "ref": "trong草"
     },
     {
-      "pred": "đứng",
+      "pred": "đứng yên",
       "ref": "đứng"
     },
     {
-      "pred": "lớn",
+      "pred": "to",
       "ref": "nhỏ"
     },
     {
-      "pred": "có",
+      "pred": "có sừng",
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "có đuôi",
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "Bốn"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Hai"
     },
     {
-      "pred": "nâu",
+      "pred": "màu nâu",
       "ref": "Nâu"
     },
     {
-      "pred": "trên",
+      "pred": "tai",
       "ref": "Sừng"
     },
     {
-      "pred": "trên",
+      "pred": "trên đá",
       "ref": "Đồng cỏ"
     },
     {
-      "pred": "đứng",
+      "pred": "đứng yên lặng",
       "ref": "Đứng yên"
     },
     {
-      "pred": "trên",
+      "pred": "kích thước lớn",
       "ref": "Đứng thẳng"
     },
     {
@@ -1074,15 +1074,15 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "bốn"
     },
     {
@@ -1098,11 +1098,11 @@
       "ref": "đứng"
     },
     {
-      "pred": "trên",
+      "pred": "đồng cỏ",
       "ref": "ngoài đồng"
     },
     {
-      "pred": "lớn",
+      "pred": "dài",
       "ref": "dài"
     },
     {
@@ -1110,39 +1110,39 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "có sừng",
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không phải con hàu",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai con",
       "ref": "ba"
     },
     {
-      "pred": "một",
+      "pred": "hai con",
       "ref": "hai"
     },
     {
-      "pred": "nâu",
+      "pred": "màu nâu",
       "ref": "nâu trắng"
     },
     {
-      "pred": "có",
+      "pred": "dài",
       "ref": "ngắn"
     },
     {
-      "pred": "trên",
+      "pred": "cánh đồng khô",
       "ref": "cánh đồng"
     },
     {
-      "pred": "đứng",
+      "pred": "đứng yên lặng",
       "ref": "đứng"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
@@ -1150,7 +1150,7 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
@@ -1158,11 +1158,11 @@
       "ref": "Một"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Hai"
     },
     {
-      "pred": "nâu",
+      "pred": "xám",
       "ref": "Xám"
     },
     {
@@ -1170,7 +1170,7 @@
       "ref": "Có"
     },
     {
-      "pred": "đứng",
+      "pred": "nằm",
       "ref": "Nằm"
     },
     {
@@ -1198,7 +1198,7 @@
       "ref": "Một"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Hai"
     },
     {
@@ -1206,19 +1206,19 @@
       "ref": "Vàng nhạt"
     },
     {
-      "pred": "đứng",
+      "pred": "đầu",
       "ref": "Mắt"
     },
     {
-      "pred": "trên",
+      "pred": "trên đất",
       "ref": "Trên cát"
     },
     {
-      "pred": "đứng",
+      "pred": "nằm",
       "ref": "Nằm"
     },
     {
-      "pred": "trên",
+      "pred": "cánh đồng",
       "ref": "Bãi biển"
     },
     {
@@ -1230,11 +1230,11 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "Bốn"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Một"
     },
     {
@@ -1246,11 +1246,11 @@
       "ref": "Không"
     },
     {
-      "pred": "đứng",
+      "pred": "nằm",
       "ref": "Ngồi"
     },
     {
-      "pred": "trên",
+      "pred": "đá",
       "ref": "Bờ biển"
     },
     {
@@ -1258,7 +1258,7 @@
       "ref": "Có"
     },
     {
-      "pred": "lớn",
+      "pred": "nằm",
       "ref": "Ngồi nghiêng"
     },
     {
@@ -1270,11 +1270,11 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
@@ -1282,19 +1282,19 @@
       "ref": "nâu"
     },
     {
-      "pred": "đứng",
+      "pred": "đầu",
       "ref": "mõm"
     },
     {
-      "pred": "đứng",
+      "pred": "nằm",
       "ref": "nằm"
     },
     {
-      "pred": "trên",
+      "pred": "trên mặt đất",
       "ref": "trên tuyết"
     },
     {
-      "pred": "lớn",
+      "pred": "sang trái",
       "ref": "nằm nghiêng"
     },
     {
@@ -1310,23 +1310,23 @@
       "ref": "Một"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "Bốn"
     },
     {
-      "pred": "nâu",
+      "pred": "xám",
       "ref": "Trắng xám"
     },
     {
-      "pred": "đứng",
+      "pred": "xám",
       "ref": "Đốm đen"
     },
     {
-      "pred": "đứng",
+      "pred": "nằm",
       "ref": "Nằm"
     },
     {
-      "pred": "trên",
+      "pred": "trên cạn",
       "ref": "Trên bãi biển"
     },
     {
@@ -1334,7 +1334,7 @@
       "ref": "Lớn"
     },
     {
-      "pred": "có",
+      "pred": "có đuôi",
       "ref": "Có"
     },
     {
@@ -1342,11 +1342,11 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "Bốn"
     },
     {
-      "pred": "một",
+      "pred": "nhiều",
       "ref": "Một vài"
     },
     {
@@ -1358,11 +1358,11 @@
       "ref": "Lớn"
     },
     {
-      "pred": "đứng",
+      "pred": "đi dạo",
       "ref": "Đi dạo"
     },
     {
-      "pred": "trên",
+      "pred": "trên đất",
       "ref": "Ngoài trời"
     },
     {
@@ -1374,7 +1374,7 @@
       "ref": "Nâu"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
@@ -1382,11 +1382,11 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "Bốn"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Hai"
     },
     {
@@ -1398,15 +1398,15 @@
       "ref": "Đen"
     },
     {
-      "pred": "đứng",
+      "pred": "đi",
       "ref": "Đứng"
     },
     {
-      "pred": "trên",
+      "pred": "trên đá",
       "ref": "Trên đá"
     },
     {
-      "pred": "đứng",
+      "pred": "đá",
       "ref": "Tảng đá"
     },
     {
@@ -1418,11 +1418,11 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "bốn"
     },
     {
@@ -1438,7 +1438,7 @@
       "ref": "đang đi"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "đang ở trong nhà"
     },
     {
@@ -1454,11 +1454,11 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
@@ -1470,15 +1470,15 @@
       "ref": "có"
     },
     {
-      "pred": "trên",
+      "pred": "gỗ",
       "ref": "đá"
     },
     {
-      "pred": "đứng",
+      "pred": "nằm",
       "ref": "nằm"
     },
     {
-      "pred": "trên",
+      "pred": "cỏ và cây",
       "ref": "núi đá"
     },
     {
@@ -1494,7 +1494,7 @@
       "ref": "Một"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "Bốn"
     },
     {
@@ -1506,11 +1506,11 @@
       "ref": "Nâu đậm"
     },
     {
-      "pred": "đứng",
+      "pred": "đi",
       "ref": "Nằm"
     },
     {
-      "pred": "trên",
+      "pred": "trên đất",
       "ref": "Trên đá"
     },
     {
@@ -1526,15 +1526,15 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "bốn"
     },
     {
-      "pred": "nâu",
+      "pred": "vàng",
       "ref": "trắng"
     },
     {
@@ -1550,7 +1550,7 @@
       "ref": "Có"
     },
     {
-      "pred": "nâu",
+      "pred": "hồng",
       "ref": "đen"
     },
     {
@@ -1558,7 +1558,7 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
@@ -1570,19 +1570,19 @@
       "ref": "Hai"
     },
     {
-      "pred": "nâu",
+      "pred": "xám",
       "ref": "Xám"
     },
     {
-      "pred": "nâu",
+      "pred": "xám",
       "ref": "Tím"
     },
     {
-      "pred": "đang đứng",
+      "pred": "ôm",
       "ref": "Ôm"
     },
     {
-      "pred": "nâu",
+      "pred": "hồng",
       "ref": "Đen"
     },
     {
@@ -1606,11 +1606,11 @@
       "ref": "Một"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Hai"
     },
     {
-      "pred": "nâu",
+      "pred": "xám",
       "ref": "Xám"
     },
     {
@@ -1622,15 +1622,15 @@
       "ref": "Đứng"
     },
     {
-      "pred": "trên",
+      "pred": "cây xanh",
       "ref": "Rừng"
     },
     {
-      "pred": "đang",
+      "pred": "có",
       "ref": "Gốc cây"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
@@ -1642,7 +1642,7 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "tám"
     },
     {
@@ -1682,27 +1682,27 @@
       "ref": "một"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "bốn"
     },
     {
-      "pred": "nâu",
+      "pred": "xám",
       "ref": "xám"
     },
     {
-      "pred": "nâu",
+      "pred": "xám",
       "ref": "đen"
     },
     {
-      "pred": "đứng",
+      "pred": "nằm",
       "ref": "đang ôm cây"
     },
     {
-      "pred": "trên",
+      "pred": "trên cây",
       "ref": "trong rừng"
     },
     {
-      "pred": "lớn",
+      "pred": "to",
       "ref": "rất to"
     },
     {
@@ -1714,23 +1714,23 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "nâu",
+      "pred": "xám",
       "ref": "xám"
     },
     {
-      "pred": "có",
+      "pred": "dài",
       "ref": "dài"
     },
     {
-      "pred": "đứng",
+      "pred": "nằm",
       "ref": "nhìn"
     },
     {
@@ -1746,39 +1746,39 @@
       "ref": "đen"
     },
     {
-      "pred": "có",
+      "pred": "có người chụp ảnh",
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "có đuôi",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "một con",
       "ref": "Một"
     },
     {
-      "pred": "một",
+      "pred": "một con",
       "ref": "Một"
     },
     {
-      "pred": "nâu",
+      "pred": "màu nâu",
       "ref": "Nâu"
     },
     {
-      "pred": "có",
+      "pred": "có tai",
       "ref": "Có"
     },
     {
-      "pred": "đứng",
+      "pred": "đang nằm",
       "ref": "Ngồi"
     },
     {
-      "pred": "đang",
+      "pred": "màu nâu",
       "ref": "Kim loại"
     },
     {
-      "pred": "có",
+      "pred": "có mắt",
       "ref": "Có"
     },
     {
@@ -1786,7 +1786,7 @@
       "ref": "Có"
     },
     {
-      "pred": "không",
+      "pred": "có",
       "ref": "Không"
     },
     {
@@ -1806,7 +1806,7 @@
       "ref": "Có"
     },
     {
-      "pred": "đứng",
+      "pred": "ăn",
       "ref": "Ngồi cạnh táo"
     },
     {
@@ -1826,11 +1826,11 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "Bốn"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Hai"
     },
     {
@@ -1838,7 +1838,7 @@
       "ref": "Nâu"
     },
     {
-      "pred": "lớn",
+      "pred": "to",
       "ref": "Nhỏ"
     },
     {
@@ -1850,7 +1850,7 @@
       "ref": "Có"
     },
     {
-      "pred": "trên",
+      "pred": "trắng",
       "ref": "Trắng"
     },
     {
@@ -1866,7 +1866,7 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "một"
     },
     {
@@ -1878,15 +1878,15 @@
       "ref": "Không"
     },
     {
-      "pred": "đứng",
+      "pred": "nằm",
       "ref": "đứng"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "trên",
+      "pred": "rừng",
       "ref": "trong vườn"
     },
     {
@@ -1906,19 +1906,19 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "nâu",
+      "pred": "xám",
       "ref": "xám trắng"
     },
     {
-      "pred": "đứng",
+      "pred": "thân cây",
       "ref": "miệng"
     },
     {
@@ -1926,11 +1926,11 @@
       "ref": "đứng"
     },
     {
-      "pred": "đứng",
+      "pred": "năm",
       "ref": "chắp tay"
     },
     {
-      "pred": "trên",
+      "pred": "cây xanh",
       "ref": "thân cây"
     },
     {
@@ -1946,7 +1946,7 @@
       "ref": "Một"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "Bốn"
     },
     {
@@ -1962,11 +1962,11 @@
       "ref": "Leo cây"
     },
     {
-      "pred": "trên",
+      "pred": "rừng",
       "ref": "Trong rừng"
     },
     {
-      "pred": "lớn",
+      "pred": "to",
       "ref": "To"
     },
     {
@@ -1974,11 +1974,11 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "ba"
     },
     {
-      "pred": "nâu",
+      "pred": "xám",
       "ref": "xám"
     },
     {
@@ -1986,11 +1986,11 @@
       "ref": "một"
     },
     {
-      "pred": "đứng",
+      "pred": "nằm",
       "ref": "đứng"
     },
     {
-      "pred": "nâu",
+      "pred": "xám",
       "ref": "xám trắng"
     },
     {
@@ -2002,11 +2002,11 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "nhiều"
     },
     {
-      "pred": "trên",
+      "pred": "trên đá",
       "ref": "trên gỗ"
     },
     {
@@ -2014,7 +2014,7 @@
       "ref": "Có"
     },
     {
-      "pred": "đang đứng",
+      "pred": "sóc đang ăn",
       "ref": "Không"
     },
     {
@@ -2022,15 +2022,15 @@
       "ref": "Một"
     },
     {
-      "pred": "một",
+      "pred": "nhiều",
       "ref": "nhiều"
     },
     {
-      "pred": "nâu",
+      "pred": "xám",
       "ref": "xám"
     },
     {
-      "pred": "nâu",
+      "pred": "trắng",
       "ref": "trắng"
     },
     {
@@ -2042,11 +2042,11 @@
       "ref": "Không"
     },
     {
-      "pred": "trên",
+      "pred": "trên cây",
       "ref": "ngoài trời"
     },
     {
-      "pred": "nâu",
+      "pred": "xanh",
       "ref": "xanh"
     },
     {
@@ -2062,7 +2062,7 @@
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "ba"
     },
     {
@@ -2070,7 +2070,7 @@
       "ref": "cam"
     },
     {
-      "pred": "đứng",
+      "pred": "nâu",
       "ref": "xám"
     },
     {
@@ -2090,19 +2090,19 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "nâu",
+      "pred": "nâu đỏ",
       "ref": "nâu đỏ"
     },
     {
@@ -2118,7 +2118,7 @@
       "ref": "Có"
     },
     {
-      "pred": "đứng",
+      "pred": "nằm",
       "ref": "đang nhìn"
     },
     {
@@ -2138,7 +2138,7 @@
       "ref": "Một"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Hai"
     },
     {
@@ -2150,11 +2150,11 @@
       "ref": "Nâu"
     },
     {
-      "pred": "đứng",
+      "pred": "cầm",
       "ref": "Cầm que"
     },
     {
-      "pred": "trên",
+      "pred": "trên đá",
       "ref": "Trên sàn"
     },
     {
@@ -2170,11 +2170,11 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "hai"
     },
     {
@@ -2182,19 +2182,19 @@
       "ref": "nâu đỏ"
     },
     {
-      "pred": "có",
+      "pred": "dài",
       "ref": "dài"
     },
     {
-      "pred": "đang đứng",
+      "pred": "đang leo cây",
       "ref": "treo"
     },
     {
-      "pred": "trên",
+      "pred": "rừng",
       "ref": "rừng"
     },
     {
-      "pred": "trên",
+      "pred": "có",
       "ref": "dây"
     },
     {
@@ -2210,7 +2210,7 @@
       "ref": "Một"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Hai"
     },
     {
@@ -2222,7 +2222,7 @@
       "ref": "Lớn"
     },
     {
-      "pred": "đang đứng",
+      "pred": "leo cây",
       "ref": "Leo cây"
     },
     {
@@ -2234,7 +2234,7 @@
       "ref": "Có"
     },
     {
-      "pred": "trên",
+      "pred": "rừng",
       "ref": "Trong rừng"
     },
     {
@@ -2246,19 +2246,19 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "nâu",
+      "pred": "nâu đỏ",
       "ref": "nâu đỏ"
     },
     {
-      "pred": "nâu",
+      "pred": "xám",
       "ref": "xám"
     },
     {
@@ -2266,7 +2266,7 @@
       "ref": "Có"
     },
     {
-      "pred": "đứng",
+      "pred": "ngồi",
       "ref": "nhìn"
     },
     {
@@ -2274,7 +2274,7 @@
       "ref": "Có"
     },
     {
-      "pred": "lớn",
+      "pred": "dài",
       "ref": "dài"
     },
     {
@@ -2302,7 +2302,7 @@
       "ref": "Nâu đen"
     },
     {
-      "pred": "trên",
+      "pred": "trên đất",
       "ref": "Trên đất"
     },
     {
@@ -2310,7 +2310,7 @@
       "ref": "Có"
     },
     {
-      "pred": "lớn",
+      "pred": "không",
       "ref": "Không"
     },
     {
@@ -2330,7 +2330,7 @@
       "ref": "Một"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Một"
     },
     {
@@ -2338,11 +2338,11 @@
       "ref": "Có"
     },
     {
-      "pred": "không",
+      "pred": "dài",
       "ref": "Không"
     },
     {
-      "pred": "không",
+      "pred": "to",
       "ref": "Không"
     },
     {
@@ -2366,31 +2366,31 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "một"
     },
     {
-      "pred": "nâu",
+      "pred": "xanh lá",
       "ref": "xanh"
     },
     {
-      "pred": "nâu",
+      "pred": "xanh",
       "ref": "vàng"
     },
     {
-      "pred": "trên",
+      "pred": "trên đá",
       "ref": "trên nền đen"
     },
     {
-      "pred": "đứng",
+      "pred": "cuộn thân",
       "ref": "cuộn quanh"
     },
     {
-      "pred": "lớn",
+      "pred": "to",
       "ref": "nhỏ và sần sùi"
     },
     {
@@ -2398,7 +2398,7 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
@@ -2406,7 +2406,7 @@
       "ref": "Một"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Một"
     },
     {
@@ -2418,7 +2418,7 @@
       "ref": "Có"
     },
     {
-      "pred": "đứng",
+      "pred": "cuộn thân",
       "ref": "Đe dọa"
     },
     {
@@ -2442,11 +2442,11 @@
       "ref": "nâu"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "ba"
     },
     {
-      "pred": "trên",
+      "pred": "trên cạn",
       "ref": "sa mạc"
     },
     {
@@ -2458,7 +2458,7 @@
       "ref": "ba"
     },
     {
-      "pred": "đứng",
+      "pred": "nằm",
       "ref": "cuộn tròn"
     },
     {
@@ -2478,11 +2478,11 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "sáu",
       "ref": "Sáu"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Hai"
     },
     {
@@ -2494,15 +2494,15 @@
       "ref": "Nâu đỏ"
     },
     {
-      "pred": "trên",
+      "pred": "trên mặt đất",
       "ref": "Trên nền trắng"
     },
     {
-      "pred": "đứng",
+      "pred": "đứng yên",
       "ref": "Đứng yên"
     },
     {
-      "pred": "có",
+      "pred": "vừa",
       "ref": "Nhỏ"
     },
     {
@@ -2514,11 +2514,11 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "sáu",
       "ref": "Sáu"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Hai"
     },
     {
@@ -2530,11 +2530,11 @@
       "ref": "Đỏ"
     },
     {
-      "pred": "đang",
+      "pred": "gỗ",
       "ref": "Gỗ"
     },
     {
-      "pred": "đứng",
+      "pred": "đứng yên",
       "ref": "Đứng"
     },
     {
@@ -2546,15 +2546,15 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
@@ -2566,7 +2566,7 @@
       "ref": "đỏ"
     },
     {
-      "pred": "đứng",
+      "pred": "đứng yên",
       "ref": "đứng yên"
     },
     {
@@ -2578,7 +2578,7 @@
       "ref": "có"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
@@ -2586,15 +2586,15 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "sáu",
       "ref": "sáu"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
@@ -2606,7 +2606,7 @@
       "ref": "Có"
     },
     {
-      "pred": "cỏ",
+      "pred": "bề mặt trắng",
       "ref": "trên không trung"
     },
     {
@@ -2630,11 +2630,11 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "sáu",
       "ref": "sáu"
     },
     {
@@ -2646,11 +2646,11 @@
       "ref": "đen"
     },
     {
-      "pred": "cỏ",
+      "pred": "bề mặt trắng",
       "ref": "bề mặt trắng"
     },
     {
-      "pred": "đứng",
+      "pred": "đứng yên",
       "ref": "đứng yên"
     },
     {
@@ -2662,7 +2662,7 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Có"
     },
     {
@@ -2670,7 +2670,7 @@
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "nhiều",
       "ref": "hai"
     },
     {
@@ -2694,15 +2694,15 @@
       "ref": "Không"
     },
     {
-      "pred": "có",
+      "pred": "có màu đen",
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "sáu",
       "ref": "sáu"
     },
     {
@@ -2742,15 +2742,15 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "sáu"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "nâu",
+      "pred": "nâu vàng",
       "ref": "nâu"
     },
     {
@@ -2758,11 +2758,11 @@
       "ref": "nhỏ"
     },
     {
-      "pred": "đang đứng",
+      "pred": "đứng",
       "ref": "bay"
     },
     {
-      "pred": "đứng",
+      "pred": "to",
       "ref": "lớn"
     },
     {
@@ -2770,7 +2770,7 @@
       "ref": "Có"
     },
     {
-      "pred": "trên",
+      "pred": "rừng",
       "ref": "đen"
     },
     {
@@ -2782,15 +2782,15 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "sáu",
       "ref": "Sáu"
     },
     {
-      "pred": "một",
+      "pred": "hai cánh",
       "ref": "Hai"
     },
     {
-      "pred": "nâu",
+      "pred": "nâu vàng",
       "ref": "Vàng nâu"
     },
     {
@@ -2798,7 +2798,7 @@
       "ref": "Có"
     },
     {
-      "pred": "đang đứng",
+      "pred": "đứng yên",
       "ref": "Đi lại"
     },
     {
@@ -2810,7 +2810,7 @@
       "ref": "Trong suốt"
     },
     {
-      "pred": "trên",
+      "pred": "trên mặt đất",
       "ref": "Trên bề mặt trắng"
     },
     {
@@ -2822,27 +2822,27 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "sáu",
       "ref": "Sáu"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Hai"
     },
     {
-      "pred": "nâu",
+      "pred": "nâu vàng",
       "ref": "Vàng đen"
     },
     {
-      "pred": "đang",
+      "pred": "đầu",
       "ref": "Râu"
     },
     {
-      "pred": "trên",
+      "pred": "bề mặt trắng",
       "ref": "Bề mặt trắng"
     },
     {
-      "pred": "đang đứng",
+      "pred": "đứng yên",
       "ref": "Đứng yên"
     },
     {
@@ -2858,7 +2858,7 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
@@ -2866,11 +2866,11 @@
       "ref": "một"
     },
     {
-      "pred": "nâu",
+      "pred": "đen",
       "ref": "đen"
     },
     {
-      "pred": "trên",
+      "pred": "cành cây",
       "ref": "trên cây"
     },
     {
@@ -2878,7 +2878,7 @@
       "ref": "đang kêu"
     },
     {
-      "pred": "không",
+      "pred": "to",
       "ref": "không"
     },
     {
@@ -2890,31 +2890,31 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "một con",
       "ref": "Một"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Hai"
     },
     {
-      "pred": "nâu",
+      "pred": "đen",
       "ref": "Đen"
     },
     {
-      "pred": "có",
+      "pred": "dài",
       "ref": "Dài"
     },
     {
-      "pred": "trên",
+      "pred": "gỗ",
       "ref": "Đá"
     },
     {
-      "pred": "trên",
+      "pred": "rừng cây",
       "ref": "Cỏ cây"
     },
     {
-      "pred": "đứng",
+      "pred": "đứng yên",
       "ref": "Đứng yên"
     },
     {
@@ -2922,15 +2922,15 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "ba"
     },
     {
@@ -2938,11 +2938,11 @@
       "ref": "Có"
     },
     {
-      "pred": "nâu",
+      "pred": "đen",
       "ref": "xám"
     },
     {
-      "pred": "trên",
+      "pred": "ngoài ruộng",
       "ref": "trên cột"
     },
     {
@@ -2950,11 +2950,11 @@
       "ref": "đứng"
     },
     {
-      "pred": "nâu",
+      "pred": "xanh",
       "ref": "xanh"
     },
     {
-      "pred": "có",
+      "pred": "dài",
       "ref": "Có"
     },
     {
@@ -2962,19 +2962,19 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "một con",
       "ref": "Một"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Hai"
     },
     {
-      "pred": "nâu",
+      "pred": "đen",
       "ref": "Đen"
     },
     {
-      "pred": "nâu",
+      "pred": "đen",
       "ref": "Đen"
     },
     {
@@ -2982,15 +2982,15 @@
       "ref": "Hót"
     },
     {
-      "pred": "nâu",
+      "pred": "xanh",
       "ref": "Xanh"
     },
     {
-      "pred": "trên",
+      "pred": "bên trái",
       "ref": "Bên trái"
     },
     {
-      "pred": "nâu",
+      "pred": "đen",
       "ref": "Đen"
     },
     {
@@ -3006,19 +3006,19 @@
       "ref": "Một"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Hai"
     },
     {
-      "pred": "nâu",
+      "pred": "đen",
       "ref": "Đen"
     },
     {
-      "pred": "nâu",
+      "pred": "đen",
       "ref": "Đen"
     },
     {
-      "pred": "trên",
+      "pred": "trên cây",
       "ref": "Trên cành cây"
     },
     {
@@ -3026,7 +3026,7 @@
       "ref": "Đứng yên"
     },
     {
-      "pred": "nâu",
+      "pred": "đen",
       "ref": "Nâu"
     },
     {
@@ -3038,11 +3038,11 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "nhiều",
       "ref": "nhiều"
     },
     {
@@ -3058,7 +3058,7 @@
       "ref": "đứng yên"
     },
     {
-      "pred": "trên",
+      "pred": "trên cỏ",
       "ref": "ngoài tự nhiên"
     },
     {
@@ -3074,23 +3074,23 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "Bốn"
     },
     {
-      "pred": "một",
+      "pred": "nhiều",
       "ref": "Hai"
     },
     {
-      "pred": "nâu",
+      "pred": "trắng và đen",
       "ref": "Xám trắng"
     },
     {
-      "pred": "nâu",
+      "pred": "đen",
       "ref": "Đen"
     },
     {
-      "pred": "trên",
+      "pred": "trên cây",
       "ref": "Trong rừng"
     },
     {
@@ -3098,7 +3098,7 @@
       "ref": "Đứng yên"
     },
     {
-      "pred": "trên",
+      "pred": "bên trái",
       "ref": "Bên phải"
     },
     {
@@ -3106,15 +3106,15 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "có màu đen",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "bốn"
     },
     {
-      "pred": "một",
+      "pred": "nhiều",
       "ref": "nhiều"
     },
     {
@@ -3122,11 +3122,11 @@
       "ref": "nâu vàng"
     },
     {
-      "pred": "có",
+      "pred": "dài",
       "ref": "dài"
     },
     {
-      "pred": "đứng",
+      "pred": "đi",
       "ref": "ngồi"
     },
     {
@@ -3150,7 +3150,7 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "bốn"
     },
     {
@@ -3170,11 +3170,11 @@
       "ref": "ăn"
     },
     {
-      "pred": "trên",
+      "pred": "trên đá",
       "ref": "trên gốc cây"
     },
     {
-      "pred": "đang đứng",
+      "pred": "dài",
       "ref": "dài"
     },
     {
@@ -3186,11 +3186,11 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "nhiều",
       "ref": "ba"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "một"
     },
     {
@@ -3198,7 +3198,7 @@
       "ref": "xám"
     },
     {
-      "pred": "nâu",
+      "pred": "vàng",
       "ref": "vàng"
     },
     {
@@ -3210,7 +3210,7 @@
       "ref": "Có"
     },
     {
-      "pred": "đang đứng",
+      "pred": "dài",
       "ref": "dài"
     },
     {
@@ -3222,11 +3222,11 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "tám",
       "ref": "tám"
     },
     {
-      "pred": "nâu",
+      "pred": "nâu trắng",
       "ref": "trắng"
     },
     {
@@ -3234,15 +3234,15 @@
       "ref": "Không"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
-      "pred": "đang",
+      "pred": "gỗ",
       "ref": "thớt"
     },
     {
-      "pred": "đang",
+      "pred": "tròn",
       "ref": "thẳng hàng"
     },
     {
@@ -3262,11 +3262,11 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "tám",
       "ref": "mười"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
@@ -3278,7 +3278,7 @@
       "ref": "vừa"
     },
     {
-      "pred": "trên",
+      "pred": "dưới nước",
       "ref": "dưới nước"
     },
     {
@@ -3290,7 +3290,7 @@
       "ref": "Có"
     },
     {
-      "pred": "nâu",
+      "pred": "trắng",
       "ref": "xanh đậm"
     },
     {
@@ -3302,11 +3302,11 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "tám",
       "ref": "Một"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Một"
     },
     {
@@ -3314,7 +3314,7 @@
       "ref": "Nâu"
     },
     {
-      "pred": "nâu",
+      "pred": "vàng",
       "ref": "Vàng"
     },
     {
@@ -3326,7 +3326,7 @@
       "ref": "Không"
     },
     {
-      "pred": "không",
+      "pred": "có",
       "ref": "Có"
     },
     {
@@ -3334,15 +3334,15 @@
       "ref": "Có"
     },
     {
-      "pred": "không",
+      "pred": "có",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "tám",
       "ref": "mười"
     },
     {
-      "pred": "một",
+      "pred": "tám",
       "ref": "tám"
     },
     {
@@ -3350,7 +3350,7 @@
       "ref": "nâu"
     },
     {
-      "pred": "nâu",
+      "pred": "vàng",
       "ref": "trắng"
     },
     {
@@ -3358,11 +3358,11 @@
       "ref": "đang di chuyển"
     },
     {
-      "pred": "trên",
+      "pred": "dưới nước",
       "ref": "trên bờ"
     },
     {
-      "pred": "trên",
+      "pred": "đá",
       "ref": "nước"
     },
     {
@@ -3374,7 +3374,7 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "tám",
       "ref": "mười"
     },
     {
@@ -3386,19 +3386,19 @@
       "ref": "nâu"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "đứng",
+      "pred": "nằm",
       "ref": "nằm"
     },
     {
-      "pred": "trên",
+      "pred": "dưới nước",
       "ref": "bờ biển"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Có"
     },
     {
@@ -3410,11 +3410,11 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "bốn"
     },
     {
-      "pred": "một",
+      "pred": "nhiều",
       "ref": "nhiều"
     },
     {
@@ -3422,7 +3422,7 @@
       "ref": "nâu đậm"
     },
     {
-      "pred": "trên",
+      "pred": "rừng",
       "ref": "rừng"
     },
     {
@@ -3450,7 +3450,7 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "Bốn"
     },
     {
@@ -3462,15 +3462,15 @@
       "ref": "Đen"
     },
     {
-      "pred": "lớn",
+      "pred": "dài",
       "ref": "Dài"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
@@ -3486,15 +3486,15 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "bốn"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "một"
     },
     {
-      "pred": "nâu",
+      "pred": "xám",
       "ref": "nâu"
     },
     {
@@ -3502,11 +3502,11 @@
       "ref": "nhỏ"
     },
     {
-      "pred": "đứng",
+      "pred": "nằm",
       "ref": "đứng yên"
     },
     {
-      "pred": "trên",
+      "pred": "ngoài tự nhiên",
       "ref": "trong chuồng"
     },
     {
@@ -3522,11 +3522,11 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
@@ -3538,15 +3538,15 @@
       "ref": "đen"
     },
     {
-      "pred": "đứng",
+      "pred": "ăn cỏ",
       "ref": "chạy"
     },
     {
-      "pred": "trên",
+      "pred": "cánh đồng",
       "ref": "ngoài trời"
     },
     {
-      "pred": "trên",
+      "pred": "bên trái",
       "ref": "bên phải"
     },
     {
@@ -3562,11 +3562,11 @@
       "ref": "Một"
     },
     {
-      "pred": "một",
+      "pred": "nhiều",
       "ref": "nhiều"
     },
     {
-      "pred": "nâu",
+      "pred": "nâu trắng",
       "ref": "Trắng vàng"
     },
     {
@@ -3578,11 +3578,11 @@
       "ref": "Chạy"
     },
     {
-      "pred": "trên",
+      "pred": "tuyết",
       "ref": "Tuyết"
     },
     {
-      "pred": "trên",
+      "pred": "cánh đồng tuyết",
       "ref": "Cánh đồng"
     },
     {
@@ -3594,11 +3594,11 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "một"
     },
     {
@@ -3610,7 +3610,7 @@
       "ref": "lớn"
     },
     {
-      "pred": "trên",
+      "pred": "thiên nhiên",
       "ref": "trong nhà"
     },
     {
@@ -3622,7 +3622,7 @@
       "ref": "Có"
     },
     {
-      "pred": "nâu",
+      "pred": "xanh lá",
       "ref": "xanh"
     },
     {
@@ -3634,11 +3634,11 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "sáu",
       "ref": "Sáu"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Hai"
     },
     {
@@ -3646,11 +3646,11 @@
       "ref": "Đen"
     },
     {
-      "pred": "lớn",
+      "pred": "nhỏ",
       "ref": "Nhỏ"
     },
     {
-      "pred": "đứng",
+      "pred": "đứng yên",
       "ref": "Đứng yên"
     },
     {
@@ -3658,7 +3658,7 @@
       "ref": "Có"
     },
     {
-      "pred": "trên",
+      "pred": "trắng",
       "ref": "Trắng"
     },
     {
@@ -3674,11 +3674,11 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "tám",
       "ref": "Sáu"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Hai"
     },
     {
@@ -3686,11 +3686,11 @@
       "ref": "Nâu vàng"
     },
     {
-      "pred": "nâu",
+      "pred": "trắng",
       "ref": "Đỏ"
     },
     {
-      "pred": "trên",
+      "pred": "trên người",
       "ref": "Tay người"
     },
     {
@@ -3698,7 +3698,7 @@
       "ref": "Có"
     },
     {
-      "pred": "lớn",
+      "pred": "to",
       "ref": "Lớn"
     },
     {
@@ -3710,11 +3710,11 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "sáu",
       "ref": "Sáu"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Hai"
     },
     {
@@ -3722,7 +3722,7 @@
       "ref": "Nâu"
     },
     {
-      "pred": "đứng",
+      "pred": "đầu",
       "ref": "Bụng"
     },
     {
@@ -3730,7 +3730,7 @@
       "ref": "Hút máu"
     },
     {
-      "pred": "đang",
+      "pred": "bề mặt trắng",
       "ref": "Da người"
     },
     {
@@ -3746,11 +3746,11 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Hai"
     },
     {
-      "pred": "một",
+      "pred": "sáu",
       "ref": "Sáu"
     },
     {
@@ -3758,15 +3758,15 @@
       "ref": "Nâu"
     },
     {
-      "pred": "đang đứng",
+      "pred": "đuôi",
       "ref": "Mỏ"
     },
     {
-      "pred": "đang đứng",
+      "pred": "đứng",
       "ref": "Đứng yên"
     },
     {
-      "pred": "trên",
+      "pred": "lá cây",
       "ref": "Bề mặt phẳng"
     },
     {
@@ -3782,11 +3782,11 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "một"
     },
     {
@@ -3794,15 +3794,15 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "dài",
       "ref": "ngắn"
     },
     {
-      "pred": "đứng",
+      "pred": "nằm",
       "ref": "nhìn ra"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Có"
     },
     {
@@ -3818,11 +3818,11 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
@@ -3834,11 +3834,11 @@
       "ref": "Không"
     },
     {
-      "pred": "trên",
+      "pred": "sofa",
       "ref": "Trên ghế"
     },
     {
-      "pred": "đứng",
+      "pred": "nằm",
       "ref": "Ngồi"
     },
     {
@@ -3850,35 +3850,35 @@
       "ref": "Có"
     },
     {
+      "pred": "không",
+      "ref": "Có"
+    },
+    {
+      "pred": "bốn",
+      "ref": "hai"
+    },
+    {
+      "pred": "hai",
+      "ref": "hai"
+    },
+    {
       "pred": "có",
       "ref": "Có"
     },
     {
-      "pred": "một",
-      "ref": "hai"
-    },
-    {
-      "pred": "một",
-      "ref": "hai"
-    },
-    {
-      "pred": "có",
-      "ref": "Có"
-    },
-    {
-      "pred": "nâu",
+      "pred": "vàng",
       "ref": "nâu"
     },
     {
-      "pred": "đứng",
+      "pred": "nằm",
       "ref": "nằm"
     },
     {
-      "pred": "nâu",
+      "pred": "vàng",
       "ref": "xanh"
     },
     {
-      "pred": "nâu",
+      "pred": "có",
       "ref": "điểm đen"
     },
     {
@@ -3894,11 +3894,11 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "bốn"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
@@ -3910,15 +3910,15 @@
       "ref": "Có"
     },
     {
-      "pred": "đang",
+      "pred": "gỗ",
       "ref": "đồ gãi mèo"
     },
     {
-      "pred": "đứng",
+      "pred": "nằm",
       "ref": "nằm"
     },
     {
-      "pred": "cỏ",
+      "pred": "cây mèo",
       "ref": "thảm"
     },
     {
@@ -3930,11 +3930,11 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
@@ -3946,7 +3946,7 @@
       "ref": "dày"
     },
     {
-      "pred": "đứng",
+      "pred": "nằm",
       "ref": "ngồi"
     },
     {
@@ -3966,31 +3966,31 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "nhiều",
       "ref": "một vài"
     },
     {
-      "pred": "nâu",
+      "pred": "xám",
       "ref": "đen"
     },
     {
-      "pred": "trên",
+      "pred": "đầu",
       "ref": "vạch trắng"
     },
     {
-      "pred": "đứng",
+      "pred": "đi",
       "ref": "đi trong cỏ"
     },
     {
-      "pred": "lớn",
+      "pred": "cỏ và cây",
       "ref": "cao và xanh"
     },
     {
-      "pred": "trên",
+      "pred": "đồng cỏ",
       "ref": "trong đồng cỏ"
     },
     {
@@ -4010,7 +4010,7 @@
       "ref": "Một"
     },
     {
-      "pred": "nâu",
+      "pred": "xám",
       "ref": "Đen trắng"
     },
     {
@@ -4018,15 +4018,15 @@
       "ref": "Nhỏ"
     },
     {
-      "pred": "đứng",
+      "pred": "nằm",
       "ref": "Ngồi"
     },
     {
-      "pred": "trên",
+      "pred": "trên đá",
       "ref": "Trong hang"
     },
     {
-      "pred": "nâu",
+      "pred": "đen",
       "ref": "Nâu"
     },
     {
@@ -4042,7 +4042,7 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "nhiều",
       "ref": "một vài"
     },
     {
@@ -4054,7 +4054,7 @@
       "ref": "nâu"
     },
     {
-      "pred": "nâu",
+      "pred": "vàng",
       "ref": "hồng"
     },
     {
@@ -4078,31 +4078,31 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "bốn"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "nâu",
+      "pred": "xám",
       "ref": "xám"
     },
     {
-      "pred": "đứng",
+      "pred": "đầu",
       "ref": "chân"
     },
     {
-      "pred": "đứng",
+      "pred": "nằm",
       "ref": "cầm một khúc gỗ"
     },
     {
-      "pred": "trên",
+      "pred": "rừng",
       "ref": "trong nhà"
     },
     {
-      "pred": "lớn",
+      "pred": "to",
       "ref": "đang ngồi"
     },
     {
@@ -4114,11 +4114,11 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "2",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "nhiều",
       "ref": "một"
     },
     {
@@ -4130,7 +4130,7 @@
       "ref": "Không"
     },
     {
-      "pred": "không",
+      "pred": "có",
       "ref": "Không"
     },
     {
@@ -4154,11 +4154,11 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "mười",
       "ref": "hai mươi"
     },
     {
-      "pred": "một",
+      "pred": "mười",
       "ref": "mười"
     },
     {
@@ -4166,7 +4166,7 @@
       "ref": "Nâu trắng"
     },
     {
-      "pred": "trên",
+      "pred": "gỗ",
       "ref": "Bàn đỏ trắng"
     },
     {
@@ -4182,7 +4182,7 @@
       "ref": "Có"
     },
     {
-      "pred": "không",
+      "pred": "có",
       "ref": "Có"
     },
     {
@@ -4190,27 +4190,27 @@
       "ref": "Có"
     },
     {
-      "pred": "không",
+      "pred": "có",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "tám",
       "ref": "ba"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "ba"
     },
     {
-      "pred": "nâu",
+      "pred": "trắng",
       "ref": "nâu trắng"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
-      "pred": "trên",
+      "pred": "gỗ",
       "ref": "đá lạnh"
     },
     {
@@ -4226,15 +4226,15 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "ba",
       "ref": "bốn"
     },
     {
-      "pred": "một",
+      "pred": "ba",
       "ref": "hai"
     },
     {
@@ -4266,15 +4266,15 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "nâu",
+      "pred": "xám",
       "ref": "trắng"
     },
     {
@@ -4282,7 +4282,7 @@
       "ref": "đen"
     },
     {
-      "pred": "đứng",
+      "pred": "nằm",
       "ref": "nhìn"
     },
     {
@@ -4302,27 +4302,27 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "bốn"
     },
     {
-      "pred": "một",
+      "pred": "nhiều",
       "ref": "một"
     },
     {
-      "pred": "nâu",
+      "pred": "cam",
       "ref": "nâu"
     },
     {
-      "pred": "đứng",
+      "pred": "đầu",
       "ref": "đuôi"
     },
     {
-      "pred": "đứng",
+      "pred": "nằm",
       "ref": "đi lại"
     },
     {
-      "pred": "đang",
+      "pred": "gỗ",
       "ref": "đá"
     },
     {
@@ -4334,19 +4334,19 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "nâu",
+      "pred": "cam",
       "ref": "cam"
     },
     {
@@ -4354,11 +4354,11 @@
       "ref": "lớn"
     },
     {
-      "pred": "trên",
+      "pred": "rừng",
       "ref": "trong rừng"
     },
     {
-      "pred": "đứng",
+      "pred": "nằm",
       "ref": "đi dạo"
     },
     {
@@ -4366,7 +4366,7 @@
       "ref": "có"
     },
     {
-      "pred": "nâu",
+      "pred": "rừng",
       "ref": "lá cây"
     },
     {
@@ -4378,7 +4378,7 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
@@ -4390,12 +4390,8 @@
       "ref": "Có"
     },
     {
-      "pred": "nâu",
+      "pred": "hồng",
       "ref": "trắng"
-    },
-    {
-      "pred": "có",
-      "ref": "Có"
     },
     {
       "pred": "không",
@@ -4418,23 +4414,27 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "nâu",
+      "pred": "xám",
       "ref": "trắng đen"
     },
     {
-      "pred": "đang đứng",
+      "pred": "mũi",
       "ref": "mũi"
     },
     {
-      "pred": "đứng",
+      "pred": "nhìn xung quanh",
       "ref": "nhìn thẳng"
     },
     {
@@ -4442,7 +4442,7 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Có"
     },
     {
@@ -4454,7 +4454,7 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
@@ -4466,11 +4466,11 @@
       "ref": "nhạt"
     },
     {
-      "pred": "nâu",
+      "pred": "nâu trắng",
       "ref": "nâu"
     },
     {
-      "pred": "trên",
+      "pred": "đồng cỏ",
       "ref": "đồng cỏ"
     },
     {
@@ -4478,7 +4478,7 @@
       "ref": "đứng"
     },
     {
-      "pred": "lớn",
+      "pred": "to",
       "ref": "to"
     },
     {
@@ -4490,19 +4490,19 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "một"
     },
     {
-      "pred": "nâu",
+      "pred": "nâu trắng",
       "ref": "kem"
     },
     {
-      "pred": "trên",
+      "pred": "cánh đồng",
       "ref": "sừng"
     },
     {
@@ -4510,7 +4510,7 @@
       "ref": "nhìn gần"
     },
     {
-      "pred": "trên",
+      "pred": "đồng cỏ",
       "ref": "cánh đồng"
     },
     {
@@ -4522,11 +4522,11 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
@@ -4534,11 +4534,11 @@
       "ref": "một"
     },
     {
-      "pred": "nâu",
+      "pred": "nâu trắng",
       "ref": "trắng nâu"
     },
     {
-      "pred": "đang đứng",
+      "pred": "cánh đồng",
       "ref": "đầu"
     },
     {
@@ -4546,11 +4546,11 @@
       "ref": "đứng trong cỏ"
     },
     {
-      "pred": "lớn",
+      "pred": "cỏ và cây",
       "ref": "dài"
     },
     {
-      "pred": "trên",
+      "pred": "đồng cỏ",
       "ref": "trong đồng"
     },
     {
@@ -4566,7 +4566,7 @@
       "ref": "Một"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "Bốn"
     },
     {
@@ -4578,7 +4578,7 @@
       "ref": "Nhỏ"
     },
     {
-      "pred": "đứng",
+      "pred": "đi dạo",
       "ref": "Đi"
     },
     {
@@ -4586,7 +4586,7 @@
       "ref": "Không"
     },
     {
-      "pred": "trên",
+      "pred": "cỏ và cây cối",
       "ref": "Cát"
     },
     {
@@ -4598,15 +4598,15 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "sáu",
       "ref": "Sáu"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Hai"
     },
     {
@@ -4618,15 +4618,15 @@
       "ref": "Có"
     },
     {
-      "pred": "trên",
+      "pred": "trên mặt đất",
       "ref": "Trên nền trắng"
     },
     {
-      "pred": "đứng",
+      "pred": "đứng yên",
       "ref": "Đi"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Hai"
     },
     {
@@ -4634,15 +4634,15 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "sáu",
       "ref": "Sáu"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Hai"
     },
     {
@@ -4658,15 +4658,15 @@
       "ref": "Đúng"
     },
     {
-      "pred": "đứng",
+      "pred": "đi",
       "ref": "Đi"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không lớn"
     },
     {
-      "pred": "đứng",
+      "pred": "râu",
       "ref": "Râu"
     },
     {
@@ -4678,11 +4678,11 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "sáu",
       "ref": "Sáu"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Hai"
     },
     {
@@ -4690,15 +4690,15 @@
       "ref": "Nâu"
     },
     {
-      "pred": "có",
+      "pred": "vừa",
       "ref": "Không"
     },
     {
-      "pred": "đang",
+      "pred": "bề mặt gỗ",
       "ref": "Gỗ"
     },
     {
-      "pred": "đứng",
+      "pred": "đi",
       "ref": "Đi"
     },
     {
@@ -4714,11 +4714,11 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "sáu",
       "ref": "Sáu"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Hai"
     },
     {
@@ -4730,7 +4730,7 @@
       "ref": "Lớn"
     },
     {
-      "pred": "đứng",
+      "pred": "đi",
       "ref": "Nằm"
     },
     {
@@ -4738,7 +4738,7 @@
       "ref": "Có"
     },
     {
-      "pred": "trên",
+      "pred": "bề mặt xám",
       "ref": "Trắng"
     },
     {
@@ -4750,11 +4750,11 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "sáu",
       "ref": "sáu"
     },
     {
@@ -4770,15 +4770,15 @@
       "ref": "Có"
     },
     {
-      "pred": "đang",
+      "pred": "bề mặt gỗ",
       "ref": "gỗ"
     },
     {
-      "pred": "đứng",
+      "pred": "đi",
       "ref": "đi"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
@@ -4794,15 +4794,15 @@
       "ref": "Một"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "Bốn"
     },
     {
-      "pred": "nâu",
+      "pred": "trắng",
       "ref": "Màu kem"
     },
     {
-      "pred": "có",
+      "pred": "dài",
       "ref": "Dài"
     },
     {
@@ -4810,15 +4810,15 @@
       "ref": "Đứng yên"
     },
     {
-      "pred": "trên",
+      "pred": "đồng cỏ",
       "ref": "Đồng cỏ"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "năm"
     },
     {
@@ -4826,7 +4826,7 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "ba"
     },
     {
@@ -4834,19 +4834,19 @@
       "ref": "Không"
     },
     {
-      "pred": "nâu",
+      "pred": "hồng",
       "ref": "hồng"
     },
     {
-      "pred": "trên",
+      "pred": "đồng cỏ",
       "ref": "ngoài đồng"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "ba"
     },
     {
-      "pred": "nâu",
+      "pred": "nâu trắng",
       "ref": "trắng"
     },
     {
@@ -4854,7 +4854,7 @@
       "ref": "đứng yên"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
@@ -4870,7 +4870,7 @@
       "ref": "một"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "một"
     },
     {
@@ -4882,7 +4882,7 @@
       "ref": "đen"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
@@ -4898,7 +4898,7 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "ba",
       "ref": "Không"
     },
     {
@@ -4906,15 +4906,15 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "ba",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "ba"
     },
     {
-      "pred": "nâu",
+      "pred": "trắng",
       "ref": "màu kem"
     },
     {
@@ -4926,7 +4926,7 @@
       "ref": "đứng yên"
     },
     {
-      "pred": "trên",
+      "pred": "đồng cỏ",
       "ref": "trong chuồng"
     },
     {
@@ -4946,7 +4946,7 @@
       "ref": "Một"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "Bốn"
     },
     {
@@ -4954,15 +4954,15 @@
       "ref": "Nâu"
     },
     {
-      "pred": "lớn",
+      "pred": "to",
       "ref": "Lớn"
     },
     {
-      "pred": "trên",
+      "pred": "trên đá",
       "ref": "Trong nhà"
     },
     {
-      "pred": "nâu",
+      "pred": "hồng",
       "ref": "Hồng"
     },
     {
@@ -4982,11 +4982,11 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "Bốn"
     },
     {
-      "pred": "một",
+      "pred": "nhiều",
       "ref": "Ba"
     },
     {
@@ -4994,7 +4994,7 @@
       "ref": "Nâu trắng"
     },
     {
-      "pred": "đứng",
+      "pred": "đầu",
       "ref": "Bốn chân"
     },
     {
@@ -5002,15 +5002,15 @@
       "ref": "Đứng yên"
     },
     {
-      "pred": "trên",
+      "pred": "đồng cỏ",
       "ref": "Trong đồng"
     },
     {
-      "pred": "nâu",
+      "pred": "vàng",
       "ref": "Vàng"
     },
     {
-      "pred": "lớn",
+      "pred": "to",
       "ref": "To"
     },
     {
@@ -5022,19 +5022,19 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "4",
       "ref": "Bốn"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Hai"
     },
     {
-      "pred": "nâu",
+      "pred": "trắng đen",
       "ref": "Trắng"
     },
     {
-      "pred": "đứng",
+      "pred": "cánh",
       "ref": "Mõm"
     },
     {
@@ -5042,7 +5042,7 @@
       "ref": "Đứng"
     },
     {
-      "pred": "trên",
+      "pred": "cánh đồng",
       "ref": "Sao"
     },
     {
@@ -5050,7 +5050,7 @@
       "ref": "Có"
     },
     {
-      "pred": "trên",
+      "pred": "bên trái",
       "ref": "Bên trái"
     },
     {
@@ -5058,23 +5058,23 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "mười"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "tám"
     },
     {
-      "pred": "nâu",
+      "pred": "đen trắng",
       "ref": "đen trắng"
     },
     {
-      "pred": "đang đứng",
+      "pred": "đầu",
       "ref": "tai"
     },
     {
@@ -5082,11 +5082,11 @@
       "ref": "đứng"
     },
     {
-      "pred": "trên",
+      "pred": "đồng cỏ",
       "ref": "đồng cỏ"
     },
     {
-      "pred": "nâu",
+      "pred": "đen",
       "ref": "nâu"
     },
     {
@@ -5102,27 +5102,27 @@
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "nhiều",
       "ref": "một"
     },
     {
-      "pred": "nâu",
+      "pred": "màu nâu",
       "ref": "trắng"
     },
     {
-      "pred": "đứng",
+      "pred": "cánh đồng",
       "ref": "đầu"
     },
     {
-      "pred": "đứng",
+      "pred": "đứng yên",
       "ref": "nằm"
     },
     {
-      "pred": "trên",
+      "pred": "đồng cỏ",
       "ref": "đồng cỏ"
     },
     {
-      "pred": "đứng",
+      "pred": "tường",
       "ref": "cây cối"
     },
     {
@@ -5130,15 +5130,15 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "Bốn"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Bốn"
     },
     {
@@ -5150,7 +5150,7 @@
       "ref": "Đen"
     },
     {
-      "pred": "trên",
+      "pred": "đồng cỏ",
       "ref": "Đồng cỏ"
     },
     {
@@ -5166,11 +5166,11 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "Bốn"
     },
     {
@@ -5186,11 +5186,11 @@
       "ref": "Vừa phải"
     },
     {
-      "pred": "đứng",
+      "pred": "đi dạo",
       "ref": "Đang chạy"
     },
     {
-      "pred": "trên",
+      "pred": "rừng",
       "ref": "Trên bãi cỏ"
     },
     {
@@ -5206,7 +5206,7 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "Bốn"
     },
     {
@@ -5218,7 +5218,7 @@
       "ref": "Cam"
     },
     {
-      "pred": "có",
+      "pred": "dài",
       "ref": "Dài"
     },
     {
@@ -5226,7 +5226,7 @@
       "ref": "Đi"
     },
     {
-      "pred": "trên",
+      "pred": "rừng",
       "ref": "Cánh đồng"
     },
     {
@@ -5262,7 +5262,7 @@
       "ref": "Có"
     },
     {
-      "pred": "đứng",
+      "pred": "nằm",
       "ref": "Đang được vuốt"
     },
     {
@@ -5278,15 +5278,15 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "bốn"
     },
     {
@@ -5302,11 +5302,11 @@
       "ref": "ngồi"
     },
     {
-      "pred": "trên",
+      "pred": "trên đá",
       "ref": "trên tuyết"
     },
     {
-      "pred": "không",
+      "pred": "có",
       "ref": "Có"
     },
     {
@@ -5322,23 +5322,23 @@
       "ref": "Một"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "Bốn"
     },
     {
-      "pred": "nâu",
+      "pred": "cam",
       "ref": "Cam"
     },
     {
-      "pred": "đứng",
+      "pred": "đầu",
       "ref": "Mỏ"
     },
     {
-      "pred": "đứng",
+      "pred": "đi dạo",
       "ref": "Đứng"
     },
     {
-      "pred": "trên",
+      "pred": "tuyết",
       "ref": "Tuyết"
     },
     {
@@ -5354,15 +5354,15 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "bốn"
     },
     {
-      "pred": "một",
+      "pred": "tám",
       "ref": "bốn"
     },
     {
-      "pred": "nâu",
+      "pred": "cam",
       "ref": "xanh và vàng"
     },
     {
@@ -5370,19 +5370,19 @@
       "ref": "nâu"
     },
     {
-      "pred": "đứng",
+      "pred": "đứng yên",
       "ref": "đang di chuyển"
     },
     {
-      "pred": "trên",
+      "pred": "trên cạn",
       "ref": "trên bàn"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "lớn",
+      "pred": "to",
       "ref": "to"
     },
     {
@@ -5394,11 +5394,11 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
@@ -5406,11 +5406,11 @@
       "ref": "nâu"
     },
     {
-      "pred": "trên",
+      "pred": "bên trái",
       "ref": "càng và chân"
     },
     {
-      "pred": "đứng",
+      "pred": "đi",
       "ref": "đi"
     },
     {
@@ -5418,7 +5418,7 @@
       "ref": "không"
     },
     {
-      "pred": "không",
+      "pred": "vừa",
       "ref": "nhỏ"
     },
     {
@@ -5426,15 +5426,15 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "tám",
       "ref": "bốn"
     },
     {
@@ -5442,7 +5442,7 @@
       "ref": "đỏ"
     },
     {
-      "pred": "không",
+      "pred": "lớn",
       "ref": "lớn"
     },
     {
@@ -5454,11 +5454,11 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "nâu",
+      "pred": "cam",
       "ref": "trắng"
     },
     {
@@ -5466,15 +5466,15 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "tám",
       "ref": "tám"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
@@ -5482,23 +5482,23 @@
       "ref": "nâu"
     },
     {
-      "pred": "trên",
+      "pred": "gỗ",
       "ref": "gỗ"
     },
     {
-      "pred": "trên",
+      "pred": "cánh đồng",
       "ref": "bãi biển"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "nâu",
+      "pred": "cam",
       "ref": "kem"
     },
     {
@@ -5506,15 +5506,15 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "tám",
       "ref": "tám"
     },
     {
@@ -5526,15 +5526,15 @@
       "ref": "không thấy"
     },
     {
-      "pred": "đứng",
+      "pred": "đứng yên",
       "ref": "đứng yên"
     },
     {
-      "pred": "trên",
+      "pred": "trên mặt đất",
       "ref": "trên nền trắng"
     },
     {
-      "pred": "lớn",
+      "pred": "to",
       "ref": "to"
     },
     {
@@ -5542,11 +5542,11 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "Bốn"
     },
     {
@@ -5558,7 +5558,7 @@
       "ref": "Nâu"
     },
     {
-      "pred": "hai",
+      "pred": "to",
       "ref": "Nhỏ"
     },
     {
@@ -5566,11 +5566,11 @@
       "ref": "Ngồi"
     },
     {
-      "pred": "lớn",
+      "pred": "trên",
       "ref": "Trên"
     },
     {
-      "pred": "hai",
+      "pred": "một",
       "ref": "Lọ"
     },
     {
@@ -5582,11 +5582,11 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
@@ -5594,7 +5594,7 @@
       "ref": "đỏ"
     },
     {
-      "pred": "nâu",
+      "pred": "hồng",
       "ref": "hồng"
     },
     {
@@ -5618,11 +5618,11 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "bốn"
     },
     {
@@ -5630,7 +5630,7 @@
       "ref": "xám"
     },
     {
-      "pred": "nâu",
+      "pred": "hồng",
       "ref": "hồng"
     },
     {
@@ -5642,7 +5642,7 @@
       "ref": "có"
     },
     {
-      "pred": "trên",
+      "pred": "trắng",
       "ref": "trắng"
     },
     {
@@ -5654,11 +5654,11 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
@@ -5666,7 +5666,7 @@
       "ref": "xám"
     },
     {
-      "pred": "lớn",
+      "pred": "dài",
       "ref": "dài"
     },
     {
@@ -5694,11 +5694,11 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "bốn"
     },
     {
@@ -5706,7 +5706,7 @@
       "ref": "đen"
     },
     {
-      "pred": "đứng",
+      "pred": "đầu",
       "ref": "tai"
     },
     {
@@ -5718,7 +5718,7 @@
       "ref": "Có"
     },
     {
-      "pred": "trên",
+      "pred": "trắng",
       "ref": "trắng"
     },
     {
@@ -5734,19 +5734,19 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "nhiều",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "nhiều",
       "ref": "nhiều"
     },
     {
-      "pred": "nâu",
+      "pred": "vàng",
       "ref": "vàng"
     },
     {
-      "pred": "đứng",
+      "pred": "nằm",
       "ref": "nằm"
     },
     {
@@ -5754,7 +5754,7 @@
       "ref": "Có"
     },
     {
-      "pred": "trên",
+      "pred": "trên đá",
       "ref": "trong sở thú"
     },
     {
@@ -5778,11 +5778,11 @@
       "ref": "Một"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "Bốn"
     },
     {
-      "pred": "nâu",
+      "pred": "vàng",
       "ref": "Vàng"
     },
     {
@@ -5798,11 +5798,11 @@
       "ref": "Không"
     },
     {
-      "pred": "đứng",
+      "pred": "đi dạo",
       "ref": "Nằm"
     },
     {
-      "pred": "nâu",
+      "pred": "vàng",
       "ref": "Xanh"
     },
     {
@@ -5814,15 +5814,15 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "bốn"
     },
     {
-      "pred": "một",
+      "pred": "nhiều",
       "ref": "nhiều"
     },
     {
-      "pred": "nâu",
+      "pred": "vàng",
       "ref": "vàng"
     },
     {
@@ -5834,11 +5834,11 @@
       "ref": "đang đi"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "lớn"
     },
     {
-      "pred": "nâu",
+      "pred": "vàng",
       "ref": "xanh"
     },
     {
@@ -5854,31 +5854,31 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "bốn"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "nâu",
+      "pred": "vàng",
       "ref": "nâu"
     },
     {
-      "pred": "đứng",
+      "pred": "đầu",
       "ref": "cơ thể"
     },
     {
-      "pred": "đứng",
+      "pred": "nằm",
       "ref": "đi"
     },
     {
-      "pred": "trên",
+      "pred": "trên cây",
       "ref": "savanna"
     },
     {
-      "pred": "lớn",
+      "pred": "dài",
       "ref": "dài"
     },
     {
@@ -5886,31 +5886,31 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "Bốn"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Hai"
     },
     {
-      "pred": "nâu",
+      "pred": "vàng",
       "ref": "Vàng"
     },
     {
-      "pred": "nâu",
+      "pred": "vàng",
       "ref": "Đen trắng"
     },
     {
-      "pred": "đứng",
+      "pred": "đi",
       "ref": "Đi"
     },
     {
-      "pred": "nâu",
+      "pred": "xanh",
       "ref": "Xanh"
     },
     {
@@ -5934,7 +5934,7 @@
       "ref": "Một"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "Bốn"
     },
     {
@@ -5954,7 +5954,7 @@
       "ref": "Có"
     },
     {
-      "pred": "trên",
+      "pred": "cỏ và cây",
       "ref": "Không gian mờ"
     },
     {
@@ -5978,19 +5978,19 @@
       "ref": "nâu"
     },
     {
-      "pred": "có",
+      "pred": "dài",
       "ref": "dài"
     },
     {
-      "pred": "đứng",
+      "pred": "đi dạo",
       "ref": "ăn"
     },
     {
-      "pred": "trên",
+      "pred": "trên cạn",
       "ref": "ngoài đường"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
@@ -6006,11 +6006,11 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "mười"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "bốn"
     },
     {
@@ -6022,15 +6022,15 @@
       "ref": "Có"
     },
     {
-      "pred": "đứng",
+      "pred": "đứng yên",
       "ref": "đứng"
     },
     {
-      "pred": "lớn",
+      "pred": "bốn",
       "ref": "trên"
     },
     {
-      "pred": "đang",
+      "pred": "tròn",
       "ref": "cong"
     },
     {
@@ -6066,7 +6066,7 @@
       "ref": "đi gần bẫy"
     },
     {
-      "pred": "trên",
+      "pred": "gỗ",
       "ref": "sàn nhà"
     },
     {
@@ -6082,7 +6082,7 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "bốn"
     },
     {
@@ -6098,7 +6098,7 @@
       "ref": "dài"
     },
     {
-      "pred": "đứng",
+      "pred": "đứng yên",
       "ref": "đi"
     },
     {
@@ -6106,7 +6106,7 @@
       "ref": "dài"
     },
     {
-      "pred": "trên",
+      "pred": "trắng",
       "ref": "trắng"
     },
     {
@@ -6142,7 +6142,7 @@
       "ref": "nhiều"
     },
     {
-      "pred": "trên",
+      "pred": "trên người",
       "ref": "trước mặt"
     },
     {
@@ -6162,15 +6162,15 @@
       "ref": "Một"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Hai"
     },
     {
-      "pred": "nâu",
+      "pred": "hồng",
       "ref": "Hồng"
     },
     {
-      "pred": "đứng",
+      "pred": "đầu",
       "ref": "Mũi"
     },
     {
@@ -6178,7 +6178,7 @@
       "ref": "Ngồi"
     },
     {
-      "pred": "trên",
+      "pred": "gỗ",
       "ref": "Thảm"
     },
     {
@@ -6190,11 +6190,11 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
@@ -6214,11 +6214,11 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "dài",
       "ref": "dài"
     },
     {
@@ -6254,15 +6254,15 @@
       "ref": "Không"
     },
     {
-      "pred": "đứng",
+      "pred": "cầm",
       "ref": "Cầm"
     },
     {
-      "pred": "trên",
+      "pred": "ngoài trời",
       "ref": "Trong nhà"
     },
     {
-      "pred": "đang",
+      "pred": "người chụp",
       "ref": "Trẻ em"
     },
     {
@@ -6278,7 +6278,7 @@
       "ref": "Một"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "Nhiều"
     },
     {
@@ -6286,7 +6286,7 @@
       "ref": "Nâu trắng"
     },
     {
-      "pred": "đứng",
+      "pred": "ăn",
       "ref": "Ăn"
     },
     {
@@ -6294,11 +6294,11 @@
       "ref": "Có"
     },
     {
-      "pred": "trên",
+      "pred": "trên đá",
       "ref": "Trong cỏ"
     },
     {
-      "pred": "nâu",
+      "pred": "hồng",
       "ref": "Hồng"
     },
     {
@@ -6318,11 +6318,11 @@
       "ref": "Một"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Hai"
     },
     {
-      "pred": "nâu",
+      "pred": "đen",
       "ref": "Đỏ"
     },
     {
@@ -6330,15 +6330,15 @@
       "ref": "Nâu"
     },
     {
-      "pred": "nâu",
+      "pred": "đỏ",
       "ref": "Đỏ trắng đen"
     },
     {
-      "pred": "đứng",
+      "pred": "đậu",
       "ref": "Đục cây"
     },
     {
-      "pred": "trên",
+      "pred": "trên cây",
       "ref": "Trên cây"
     },
     {
@@ -6350,11 +6350,11 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "ba"
     },
     {
@@ -6362,7 +6362,7 @@
       "ref": "nhiều"
     },
     {
-      "pred": "nâu",
+      "pred": "đỏ",
       "ref": "Đỏ trắng đen"
     },
     {
@@ -6370,11 +6370,11 @@
       "ref": "dài"
     },
     {
-      "pred": "đang đứng",
+      "pred": "đứng",
       "ref": "đục cây"
     },
     {
-      "pred": "nâu",
+      "pred": "vàng",
       "ref": "nâu"
     },
     {
@@ -6382,7 +6382,7 @@
       "ref": "đen"
     },
     {
-      "pred": "trên",
+      "pred": "trên cây",
       "ref": "ngoài rừng"
     },
     {
@@ -6390,19 +6390,19 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "nâu",
+      "pred": "đen",
       "ref": "đen"
     },
     {
@@ -6414,11 +6414,11 @@
       "ref": "đậu"
     },
     {
-      "pred": "trên",
+      "pred": "trên cây",
       "ref": "trên cây"
     },
     {
-      "pred": "nâu",
+      "pred": "đỏ",
       "ref": "đỏ trắng"
     },
     {
@@ -6438,19 +6438,19 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Hai"
     },
     {
-      "pred": "nâu",
+      "pred": "đỏ",
       "ref": "Đỏ"
     },
     {
-      "pred": "đứng",
+      "pred": "đậu",
       "ref": "Đậu"
     },
     {
@@ -6462,7 +6462,7 @@
       "ref": "Dài"
     },
     {
-      "pred": "nâu",
+      "pred": "xanh",
       "ref": "Xanh"
     },
     {
@@ -6470,35 +6470,35 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "nhiều",
       "ref": "một"
     },
     {
-      "pred": "nâu",
+      "pred": "đen trắng",
       "ref": "đen trắng"
     },
     {
-      "pred": "nâu",
+      "pred": "đen",
       "ref": "xám"
     },
     {
-      "pred": "đứng",
+      "pred": "đậu",
       "ref": "đậu"
     },
     {
-      "pred": "trên",
+      "pred": "gỗ",
       "ref": "cây"
     },
     {
-      "pred": "nâu",
+      "pred": "trắng",
       "ref": "đỏ đen trắng"
     },
     {
@@ -6510,11 +6510,11 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "bốn"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "nhiều"
     },
     {
@@ -6526,15 +6526,15 @@
       "ref": "vàng"
     },
     {
-      "pred": "trên",
+      "pred": "cành cây",
       "ref": "trên cây"
     },
     {
-      "pred": "đứng",
+      "pred": "đậu",
       "ref": "đậu"
     },
     {
-      "pred": "có",
+      "pred": "lớn",
       "ref": "lớn"
     },
     {
@@ -6546,11 +6546,11 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "sáu",
       "ref": "sáu"
     },
     {
@@ -6562,15 +6562,15 @@
       "ref": "xanh"
     },
     {
-      "pred": "trên",
+      "pred": "cành cây",
       "ref": "hoa"
     },
     {
-      "pred": "đứng",
+      "pred": "đứng yên",
       "ref": "đậu"
     },
     {
-      "pred": "nâu",
+      "pred": "xanh",
       "ref": "xanh"
     },
     {
@@ -6582,7 +6582,7 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "Bốn"
     },
     {
@@ -6590,15 +6590,15 @@
       "ref": "Một"
     },
     {
-      "pred": "nâu",
+      "pred": "xanh",
       "ref": "Xanh"
     },
     {
-      "pred": "lớn",
+      "pred": "to",
       "ref": "Lớn"
     },
     {
-      "pred": "trên",
+      "pred": "cành cây",
       "ref": "Trên cành cây"
     },
     {
@@ -6606,7 +6606,7 @@
       "ref": "Đậu"
     },
     {
-      "pred": "trên",
+      "pred": "lá cây",
       "ref": "Lá cây"
     },
     {
@@ -6618,11 +6618,11 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
@@ -6634,15 +6634,15 @@
       "ref": "nâu vàng"
     },
     {
-      "pred": "trên",
+      "pred": "trên nền trắng",
       "ref": "trên không"
     },
     {
-      "pred": "đứng",
+      "pred": "đứng yên",
       "ref": "bay"
     },
     {
-      "pred": "lớn",
+      "pred": "to",
       "ref": "lớn"
     },
     {
@@ -6650,15 +6650,15 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "sáu",
       "ref": "sáu"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
@@ -6670,11 +6670,11 @@
       "ref": "lớn"
     },
     {
-      "pred": "trên",
+      "pred": "cành cây",
       "ref": "trên lá"
     },
     {
-      "pred": "đứng",
+      "pred": "đậu",
       "ref": "đậu"
     },
     {
@@ -6690,7 +6690,7 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "ba"
     },
     {
@@ -6698,7 +6698,7 @@
       "ref": "một"
     },
     {
-      "pred": "nâu",
+      "pred": "xám",
       "ref": "xám"
     },
     {
@@ -6706,11 +6706,11 @@
       "ref": "Có"
     },
     {
-      "pred": "trên",
+      "pred": "dưới biển",
       "ref": "dưới đáy biển"
     },
     {
-      "pred": "đứng",
+      "pred": "nằm",
       "ref": "bơi"
     },
     {
@@ -6734,11 +6734,11 @@
       "ref": "Một"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "Hai"
     },
     {
-      "pred": "nâu",
+      "pred": "xám",
       "ref": "Xám"
     },
     {
@@ -6746,7 +6746,7 @@
       "ref": "Có"
     },
     {
-      "pred": "đứng",
+      "pred": "chạm vào",
       "ref": "Chạm vào"
     },
     {
@@ -6754,7 +6754,7 @@
       "ref": "Có"
     },
     {
-      "pred": "không",
+      "pred": "lớn",
       "ref": "Lớn"
     },
     {
@@ -6762,7 +6762,7 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Có"
     },
     {
@@ -6774,7 +6774,7 @@
       "ref": "một"
     },
     {
-      "pred": "nâu",
+      "pred": "xám",
       "ref": "xám"
     },
     {
@@ -6782,11 +6782,11 @@
       "ref": "lớn"
     },
     {
-      "pred": "trên",
+      "pred": "dưới nước",
       "ref": "dưới đáy biển"
     },
     {
-      "pred": "đứng",
+      "pred": "bơi",
       "ref": "bơi"
     },
     {
@@ -6802,7 +6802,7 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "ba"
     },
     {
@@ -6810,19 +6810,19 @@
       "ref": "một"
     },
     {
-      "pred": "nâu",
+      "pred": "xám",
       "ref": "xám"
     },
     {
-      "pred": "có",
+      "pred": "lớn",
       "ref": "lớn"
     },
     {
-      "pred": "trên",
+      "pred": "dưới biển",
       "ref": "dưới nước"
     },
     {
-      "pred": "đứng",
+      "pred": "bơi",
       "ref": "bơi"
     },
     {
@@ -6838,7 +6838,7 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "ba"
     },
     {
@@ -6846,7 +6846,7 @@
       "ref": "hai"
     },
     {
-      "pred": "nâu",
+      "pred": "xanh lá",
       "ref": "đen"
     },
     {
@@ -6862,11 +6862,11 @@
       "ref": "Có"
     },
     {
-      "pred": "nâu",
+      "pred": "xám",
       "ref": "xám"
     },
     {
-      "pred": "trên",
+      "pred": "trên cạn",
       "ref": "dưới nước"
     },
     {
@@ -6878,11 +6878,11 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "nhiều",
       "ref": "ba"
     },
     {
-      "pred": "một",
+      "pred": "sáu",
       "ref": "sáu"
     },
     {
@@ -6890,7 +6890,7 @@
       "ref": "đỏ"
     },
     {
-      "pred": "nâu",
+      "pred": "đỏ",
       "ref": "đen"
     },
     {
@@ -6902,7 +6902,7 @@
       "ref": "đi"
     },
     {
-      "pred": "nâu",
+      "pred": "vàng",
       "ref": "trắng"
     },
     {
@@ -6914,19 +6914,19 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "ba",
       "ref": "mười"
     },
     {
-      "pred": "một",
+      "pred": "6",
       "ref": "sáu"
     },
     {
-      "pred": "nâu",
+      "pred": "cam",
       "ref": "đỏ"
     },
     {
-      "pred": "đứng",
+      "pred": "đi",
       "ref": "đẻ trứng"
     },
     {
@@ -6934,7 +6934,7 @@
       "ref": "Có"
     },
     {
-      "pred": "trên",
+      "pred": "cỏ và cây",
       "ref": "lá cây"
     },
     {
@@ -6946,7 +6946,7 @@
       "ref": "Một"
     },
     {
-      "pred": "một",
+      "pred": "bảy",
       "ref": "Bốn"
     },
     {
@@ -6958,7 +6958,7 @@
       "ref": "Đỏ"
     },
     {
-      "pred": "đứng",
+      "pred": "đứng yên",
       "ref": "Đứng"
     },
     {
@@ -6966,15 +6966,15 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "bảy",
       "ref": "Bốn"
     },
     {
-      "pred": "nâu",
+      "pred": "đỏ",
       "ref": "Đỏ"
     },
     {
-      "pred": "trên",
+      "pred": "trên lá",
       "ref": "Cọng cỏ"
     },
     {
@@ -6986,7 +6986,7 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "bảy",
       "ref": "bốn"
     },
     {
@@ -6994,7 +6994,7 @@
       "ref": "một"
     },
     {
-      "pred": "nâu",
+      "pred": "cam",
       "ref": "đỏ"
     },
     {
@@ -7002,11 +7002,11 @@
       "ref": "đen"
     },
     {
-      "pred": "đứng",
+      "pred": "đi",
       "ref": "đang đậu"
     },
     {
-      "pred": "trên",
+      "pred": "gỗ",
       "ref": "trên tường"
     },
     {
@@ -7014,7 +7014,7 @@
       "ref": "trắng"
     },
     {
-      "pred": "đang",
+      "pred": "đi",
       "ref": "đứng yên"
     },
     {
@@ -7026,108 +7026,32 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "ba",
       "ref": "hơn mười"
     },
     {
-      "pred": "một",
+      "pred": "mười ba",
       "ref": "nhiều"
     },
     {
-      "pred": "nâu",
+      "pred": "cam",
       "ref": "cam"
     },
     {
-      "pred": "nâu",
+      "pred": "đen",
       "ref": "đen"
     },
     {
-      "pred": "đứng",
+      "pred": "đi",
       "ref": "đọng lại"
     },
     {
-      "pred": "trên",
+      "pred": "trên cát",
       "ref": "trên gỗ"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
-    },
-    {
-      "pred": "có",
-      "ref": "Có"
-    },
-    {
-      "pred": "có",
-      "ref": "Không"
-    },
-    {
-      "pred": "một",
-      "ref": "tám"
-    },
-    {
-      "pred": "một",
-      "ref": "hai"
-    },
-    {
-      "pred": "nâu",
-      "ref": "đỏ"
-    },
-    {
-      "pred": "trên",
-      "ref": "dưới nước"
-    },
-    {
-      "pred": "đang đứng",
-      "ref": "xa"
-    },
-    {
-      "pred": "nâu",
-      "ref": "vàng"
-    },
-    {
-      "pred": "đứng",
-      "ref": "bơi"
-    },
-    {
-      "pred": "nâu",
-      "ref": "xanh"
-    },
-    {
-      "pred": "có",
-      "ref": "Có"
-    },
-    {
-      "pred": "có",
-      "ref": "Không"
-    },
-    {
-      "pred": "một",
-      "ref": "tám"
-    },
-    {
-      "pred": "một",
-      "ref": "nhiều"
-    },
-    {
-      "pred": "nâu",
-      "ref": "hồng"
-    },
-    {
-      "pred": "đang",
-      "ref": "xoắn ốc"
-    },
-    {
-      "pred": "trên",
-      "ref": "trên cạn"
-    },
-    {
-      "pred": "nâu",
-      "ref": "trắng"
-    },
-    {
-      "pred": "có",
-      "ref": "nhỏ"
     },
     {
       "pred": "có",
@@ -7138,7 +7062,83 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "tám",
+      "ref": "tám"
+    },
+    {
+      "pred": "hai",
+      "ref": "hai"
+    },
+    {
+      "pred": "nâu",
+      "ref": "đỏ"
+    },
+    {
+      "pred": "dưới nước",
+      "ref": "dưới nước"
+    },
+    {
+      "pred": "sang trái",
+      "ref": "xa"
+    },
+    {
+      "pred": "cam",
+      "ref": "vàng"
+    },
+    {
+      "pred": "đứng",
+      "ref": "bơi"
+    },
+    {
+      "pred": "xanh",
+      "ref": "xanh"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "không",
+      "ref": "Không"
+    },
+    {
+      "pred": "tám",
+      "ref": "tám"
+    },
+    {
+      "pred": "hai",
+      "ref": "nhiều"
+    },
+    {
+      "pred": "nâu đỏ",
+      "ref": "hồng"
+    },
+    {
+      "pred": "có",
+      "ref": "xoắn ốc"
+    },
+    {
+      "pred": "dưới nước",
+      "ref": "trên cạn"
+    },
+    {
+      "pred": "trắng",
+      "ref": "trắng"
+    },
+    {
+      "pred": "không",
+      "ref": "nhỏ"
+    },
+    {
+      "pred": "có",
+      "ref": "Có"
+    },
+    {
+      "pred": "có",
+      "ref": "Không"
+    },
+    {
+      "pred": "tám",
       "ref": "tám"
     },
     {
@@ -7154,11 +7154,11 @@
       "ref": "Có"
     },
     {
-      "pred": "không",
+      "pred": "có",
       "ref": "Đang"
     },
     {
-      "pred": "không",
+      "pred": "có",
       "ref": "Có"
     },
     {
@@ -7178,7 +7178,7 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "tám",
       "ref": "Tám"
     },
     {
@@ -7190,19 +7190,19 @@
       "ref": "Nâu đỏ"
     },
     {
-      "pred": "lớn",
+      "pred": "dài",
       "ref": "Dài"
     },
     {
-      "pred": "đang đứng",
+      "pred": "đứng",
       "ref": "Được phơi"
     },
     {
-      "pred": "trên",
+      "pred": "dưới nước",
       "ref": "Dây phơi"
     },
     {
-      "pred": "trên",
+      "pred": "bề mặt tối",
       "ref": "Biển và trời xanh"
     },
     {
@@ -7214,11 +7214,11 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "tám"
     },
     {
-      "pred": "một",
+      "pred": "bốn",
       "ref": "mười lăm"
     },
     {
@@ -7230,15 +7230,15 @@
       "ref": "một"
     },
     {
-      "pred": "đứng",
+      "pred": "nằm",
       "ref": "nằm"
     },
     {
-      "pred": "đứng",
+      "pred": "cuộn tròn",
       "ref": "đo"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "lớn"
     },
     {
@@ -7246,23 +7246,23 @@
       "ref": "Có"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "ba"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "ba"
     },
     {
-      "pred": "nâu",
+      "pred": "vàng",
       "ref": "Vàng và Hồng"
     },
     {
-      "pred": "nâu",
+      "pred": "vàng",
       "ref": "Cam"
     },
     {
@@ -7270,7 +7270,7 @@
       "ref": "Vệ sinh lông"
     },
     {
-      "pred": "trên",
+      "pred": "cánh đồng",
       "ref": "Gần sông"
     },
     {
@@ -7278,7 +7278,7 @@
       "ref": "Không"
     },
     {
-      "pred": "nâu",
+      "pred": "cam",
       "ref": "Trắng"
     },
     {
@@ -7290,19 +7290,19 @@
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "ba"
     },
     {
-      "pred": "nâu",
+      "pred": "vàng",
       "ref": "vàng"
     },
     {
-      "pred": "nâu",
+      "pred": "vàng",
       "ref": "đỏ"
     },
     {
@@ -7310,15 +7310,15 @@
       "ref": "đứng"
     },
     {
-      "pred": "trên",
+      "pred": "trên đá",
       "ref": "bờ biển"
     },
     {
-      "pred": "trên",
+      "pred": "râu",
       "ref": "mỏ"
     },
     {
-      "pred": "có",
+      "pred": "không",
       "ref": "Có"
     },
     {
@@ -7326,19 +7326,19 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "nâu",
+      "pred": "vàng",
       "ref": "Vàng"
     },
     {
-      "pred": "nâu",
+      "pred": "vàng",
       "ref": "Trắng"
     },
     {
@@ -7346,11 +7346,11 @@
       "ref": "Đứng"
     },
     {
-      "pred": "có",
+      "pred": "dài",
       "ref": "Dài"
     },
     {
-      "pred": "trên",
+      "pred": "trên nước",
       "ref": "Gần nước"
     },
     {
@@ -7358,11 +7358,11 @@
       "ref": "Có"
     },
     {
-      "pred": "không",
+      "pred": "có",
       "ref": "Không"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
@@ -7382,7 +7382,7 @@
       "ref": "bơi"
     },
     {
-      "pred": "có",
+      "pred": "dài",
       "ref": "Có"
     },
     {
@@ -7390,7 +7390,7 @@
       "ref": "Có"
     },
     {
-      "pred": "nâu",
+      "pred": "xanh",
       "ref": "xanh"
     },
     {
@@ -7402,11 +7402,11 @@
       "ref": "Có"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
-      "pred": "một",
+      "pred": "hai",
       "ref": "hai"
     },
     {
@@ -7414,19 +7414,19 @@
       "ref": "nâu"
     },
     {
-      "pred": "nâu",
+      "pred": "vàng",
       "ref": "vàng"
     },
     {
-      "pred": "trên",
+      "pred": "trên đá",
       "ref": "trên đá"
     },
     {
-      "pred": "đang đứng",
+      "pred": "bơi",
       "ref": "sải cánh"
     },
     {
-      "pred": "trên",
+      "pred": "cỏ và cây",
       "ref": "nước"
     }
   ]

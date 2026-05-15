@@ -1,0 +1,12 @@
+{
+  "model_name": "B1_ZeroShot",
+  "results": {
+    "exact_match": 0.0010770059235325794,
+    "vqa_soft_accuracy": 0.0010770059235325794,
+    "bleu": 0.0014947022612872335,
+    "rougeL": 0.027609448174513655,
+    "meteor": 0.00498167926909183,
+    "bertscore_f1": 0.0,
+    "num_samples": 1857
+  }
+}
